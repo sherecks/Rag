@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Karaguá Ecotech — Carbono Azul nos Manguezais de Santa Catarina</title>
+  <meta name="description" content="Estruturamos projetos de certificação de créditos de carbono azul em manguezais, integrando ciência aplicada, tecnologia de monitoramento e participação comunitária remunerada.">
+
+  <link href="https://fonts.cdnfonts.com/css/aileron" rel="stylesheet">
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three":         "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+    }
+  }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+
+  <style>
+    /* ── Design System — karagua-design-system.vercel.app/design-system ── */
+    :root {
+      --k-color-green-karagua:      #c7d926;
+      --k-color-green-karagua-dark: #adbc25;
+      --k-color-green-karagua-deep: #828e1a;
+      --k-color-teal:               #1ABC9C;
+      --k-color-surface-carbon:     #1A2332;
+      --k-color-surface-carbon-mid: #1e2c3f;
+      --k-color-border:             #2E3D52;
+      --k-color-surface-shell:      #F7F5F0;
+      --k-color-surface-fog:        #EBE8E2;
+      --k-color-surface-elevated:   #FBF9F4;
+      --k-color-text-primary:       #2C3E50;
+      --k-color-text-secondary:     #6B7B8D;
+      --k-color-positive:           #27AE60;
+      --k-color-coral:              #E85D4A;
+
+      --k-ease-out-quart: cubic-bezier(.25, 1, .5, 1);
+      --k-duration-base:  200ms;
+
+      /* Local aliases */
+      --green:      var(--k-color-green-karagua);
+      --green-mid:  var(--k-color-green-karagua-dark);
+      --green-deep: var(--k-color-green-karagua-deep);
+      --teal:       var(--k-color-teal);
+      --navy:       var(--k-color-surface-carbon);
+      --navy-mid:   var(--k-color-surface-carbon-mid);
+      --border:     var(--k-color-border);
+      --cream:      var(--k-color-surface-shell);
+      --fog:        var(--k-color-surface-fog);
+      --muted:      var(--k-color-text-secondary);
+    }
+
+    /* ── Reset ──────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; font-size: 17px; }
+    body {
+      font-family: 'Aileron', sans-serif;
+      background: var(--navy);
+      color: var(--cream);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; }
+
+    /* ── Utility ─────────────────────────────────────────────── */
+    .container { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+    .tag {
+      display: inline-block;
+      font-size: 11px; font-weight: 600; letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--green);
+      background: rgba(199,217,38,.1);
+      border: 1px solid rgba(199,217,38,.25);
+      padding: 4px 12px; border-radius: 20px;
+      margin-bottom: 20px;
+    }
+    .section-title {
+      font-size: clamp(28px, 4vw, 42px);
+      font-weight: 700; line-height: 1.15;
+      margin-bottom: 16px;
+    }
+    .section-lead {
+      font-size: 18px; font-weight: 300;
+      color: var(--fog); max-width: 620px;
+      line-height: 1.7;
+    }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: 'Aileron', sans-serif;
+      font-size: 14px; font-weight: 600; letter-spacing: .04em;
+      padding: 13px 28px; border-radius: 6px; min-height: 44px;
+      border: none; cursor: pointer;
+      transition: background-color var(--k-duration-base) var(--k-ease-out-quart),
+                  transform       var(--k-duration-base) var(--k-ease-out-quart),
+                  border-color    var(--k-duration-base) var(--k-ease-out-quart),
+                  color           var(--k-duration-base) var(--k-ease-out-quart);
+    }
+    .btn-block {
+      width: 100%; justify-content: center;
+    }
+    .btn-primary {
+      background: var(--k-color-green-karagua-deep); color: var(--cream);
+    }
+    .btn-primary:hover { background: var(--k-color-green-karagua-dark); transform: translateY(-1px); }
+    .btn-outline {
+      background: transparent; color: var(--cream);
+      border: 1px solid var(--border);
+    }
+    .btn-outline:hover { border-color: var(--green); color: var(--green); }
+
+    /* scroll-reveal */
+    .reveal { opacity: 0; transform: translateY(28px); transition: opacity .6s ease, transform .6s ease; }
+    .reveal.visible { opacity: 1; transform: none; }
+    .reveal-delay-1 { transition-delay: .1s; }
+    .reveal-delay-2 { transition-delay: .2s; }
+    .reveal-delay-3 { transition-delay: .3s; }
+    .reveal-delay-4 { transition-delay: .4s; }
+
+    /* ── Nav ─────────────────────────────────────────────────── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 900;
+      height: 64px;
+      background: rgba(26,35,50,.9);
+      border-bottom: 1px solid var(--border);
+      backdrop-filter: blur(12px);
+      display: flex; align-items: center;
+    }
+    nav .inner {
+      width: 100%; max-width: 1120px; margin: 0 auto; padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo {
+      display: flex; align-items: center; gap: 10px;
+    }
+    .nav-logo img { height: 28px; }
+    .nav-logo span {
+      font-size: 16px; font-weight: 700; letter-spacing: .02em;
+      color: var(--cream);
+    }
+    .nav-links {
+      display: flex; align-items: center; gap: 32px;
+      list-style: none;
+    }
+    .nav-links a {
+      font-size: 14px; color: var(--muted);
+      transition: color .2s;
+    }
+    .nav-links a:hover { color: var(--cream); }
+    .nav-cta { display: flex; align-items: center; gap: 12px; }
+
+    /* ── Hero ─────────────────────────────────────────────────── */
+    #hero {
+      min-height: 100vh;
+      padding: 140px 0 100px;
+      position: relative;
+      display: flex; align-items: center;
+      overflow: hidden;
+    }
+    #hero::before {
+      content: '';
+      position: absolute; inset: 0; pointer-events: none;
+      background-image:
+        radial-gradient(circle, rgba(199,217,38,.08) 1px, transparent 1px),
+        radial-gradient(ellipse at 15% 50%, rgba(39,174,96,.10) 0%, transparent 55%),
+        radial-gradient(ellipse at 85% 20%, rgba(26,188,156,.07) 0%, transparent 50%),
+        radial-gradient(ellipse at 60% 80%, rgba(199,217,38,.05) 0%, transparent 45%);
+      background-size: 40px 40px, auto, auto, auto;
+    }
+    #hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 260px; z-index: 2;
+      background: linear-gradient(to bottom, transparent, var(--navy));
+      pointer-events: none;
+    }
+    #hero-canvas {
+      position: absolute;
+      inset: 0; z-index: 1;
+      pointer-events: none;
+    }
+    #hero > .container {
+      position: relative;
+      z-index: 3;
+    }
+    .hero-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 64px; align-items: center;
+    }
+    .hero-eyebrow {
+      font-size: 13px; font-weight: 600; letter-spacing: .12em;
+      text-transform: uppercase; color: var(--green);
+      margin-bottom: 28px;
+    }
+    .hero-title {
+      font-size: clamp(52px, 7vw, 96px);
+      font-weight: 100; line-height: 0.95;
+      letter-spacing: -0.03em; margin-bottom: 32px;
+    }
+    .hero-title em { font-style: normal; color: var(--green); }
+    .hero-sub {
+      font-size: 18px; font-weight: 300;
+      color: var(--fog); line-height: 1.7;
+      margin-bottom: 40px; max-width: 520px;
+    }
+    .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+    .hero-stats {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1px; border-radius: 8px; overflow: hidden;
+      background: rgba(46, 61, 82, 0.25);
+    }
+    .hero-stat {
+      background: rgba(26, 35, 50, 0.18);
+      backdrop-filter: blur(2px);
+      -webkit-backdrop-filter: blur(8px);
+      padding: 28px 24px;
+    }
+    .hero-stat-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 36px; font-weight: 400;
+      letter-spacing: -0.03em;
+      color: var(--green); line-height: 1;
+      margin-bottom: 6px;
+    }
+    .hero-stat-label {
+      font-size: 13px; color: var(--muted); line-height: 1.4;
+    }
+    .hero-stat-accent { color: var(--teal); }
+
+
+    /* ── Problema ────────────────────────────────────────────── */
+    #problema { padding: 100px 0; }
+    .problema-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 80px; align-items: start;
+    }
+    .problema-cards { display: flex; flex-direction: column; gap: 16px; }
+    .problema-card {
+      background: var(--navy-mid);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 24px;
+    }
+    .problema-card-icon {
+      margin-bottom: 16px;
+    }
+    .problema-card-icon svg {
+      width: 28px; height: 28px;
+      stroke: var(--k-color-green-karagua);
+      stroke-width: 1.5;
+    }
+    .problema-card h4 {
+      font-size: 15px; font-weight: 600; margin-bottom: 8px;
+    }
+    .problema-card p {
+      font-size: 14px; color: var(--muted); line-height: 1.6;
+    }
+    .problema-highlight {
+      background: rgba(199,217,38,.06);
+      border: 1px solid rgba(199,217,38,.2);
+      border-radius: 8px; padding: 28px;
+      margin-top: 24px;
+    }
+    .problema-highlight p {
+      font-size: 24px; color: var(--fog); line-height: 1.7;
+    }
+    .problema-highlight strong { color: var(--green); font-weight: 700; }
+
+    /* ── Solução ─────────────────────────────────────────────── */
+    #solucao {
+      padding: 100px 0;
+      background: linear-gradient(180deg, var(--navy) 0%, var(--navy-mid) 100%);
+    }
+    .solucao-header { text-align: center; margin-bottom: 64px; }
+    .solucao-header .section-lead { margin: 0 auto; text-align: left; max-width: none; }
+    .solucao-grid {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      gap: 2px; border-radius: 12px; overflow: hidden;
+      background: var(--border);
+    }
+    .solucao-card {
+      background: var(--navy-mid);
+      padding: 36px 28px;
+    }
+    .solucao-card-num {
+      font-size: 11px; font-weight: 700; letter-spacing: .15em;
+      color: var(--green); text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .solucao-card h3 {
+      font-size: 20px; font-weight: 700; margin-bottom: 12px;
+    }
+    .solucao-card p {
+      font-size: 14px; color: var(--muted); line-height: 1.65;
+    }
+    .solucao-card .method-tag {
+      display: inline-block; margin-top: 16px;
+      font-size: 11px; font-weight: 600; letter-spacing: .1em;
+      color: var(--teal); border: 1px solid rgba(26,188,156,.3);
+      padding: 3px 10px; border-radius: 4px;
+    }
+
+    /* ── Impacto ─────────────────────────────────────────────── */
+    #impacto { padding: 100px 0; }
+    .impacto-header { margin-bottom: 64px; }
+    .impacto-nums {
+      display: grid; grid-template-columns: repeat(4, 1fr);
+      gap: 2px; border-radius: 12px; overflow: hidden;
+      background: var(--border); margin-bottom: 64px;
+    }
+    .impacto-num {
+      background: var(--navy-mid); padding: 36px 24px;
+      text-align: center;
+    }
+    .impacto-num-value {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 44px; font-weight: 400;
+      letter-spacing: -0.03em;
+      color: var(--green); line-height: 1;
+      margin-bottom: 8px;
+    }
+    .impacto-num-unit {
+      font-size: 16px; font-weight: 300; color: var(--fog);
+      margin-bottom: 6px;
+    }
+    .impacto-num-label {
+      font-size: 12px; color: var(--muted); line-height: 1.4;
+    }
+    .impacto-dims {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+    .impacto-dim {
+      background: var(--navy-mid);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 28px;
+      display: flex; gap: 20px; align-items: flex-start;
+    }
+    .impacto-dim-icon {
+      flex-shrink: 0; margin-top: 2px;
+    }
+    .impacto-dim-icon svg {
+      width: 36px; height: 36px;
+      stroke: var(--k-color-green-karagua);
+      stroke-width: 1.5;
+    }
+    .impacto-dim h4 {
+      font-size: 15px; font-weight: 600; margin-bottom: 8px;
+    }
+    .impacto-dim p {
+      font-size: 14px; color: var(--muted); line-height: 1.6;
+    }
+
+    /* ── Como funciona ───────────────────────────────────────── */
+    #como-funciona {
+      padding: 100px 0;
+      background: var(--navy-mid);
+    }
+    .fases-header { margin-bottom: 64px; }
+    .fases { display: flex; flex-direction: column; gap: 2px; }
+    .fase {
+      display: grid; grid-template-columns: 200px 1fr;
+      background: var(--navy);
+      border: 1px solid var(--border);
+      border-radius: 10px; overflow: hidden;
+    }
+    .fase-num {
+      background: rgba(199,217,38,.06);
+      border-right: 1px solid var(--border);
+      padding: 32px 24px;
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      text-align: center; gap: 8px;
+    }
+    .fase-num-label {
+      font-size: 10px; font-weight: 700; letter-spacing: .15em;
+      text-transform: uppercase; color: var(--green);
+    }
+    .fase-num-title {
+      font-size: 17px; font-weight: 700;
+    }
+    .fase-num-status {
+      font-size: 11px; color: var(--teal);
+      border: 1px solid rgba(26,188,156,.3);
+      padding: 2px 10px; border-radius: 20px;
+    }
+    .fase-content { padding: 32px 36px; }
+    .fase-content h4 {
+      font-size: 16px; font-weight: 600; margin-bottom: 10px;
+      color: var(--cream);
+    }
+    .fase-content p {
+      font-size: 14px; color: var(--muted); line-height: 1.65;
+      max-width: 680px;
+    }
+    .fase-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+    .fase-tag {
+      font-size: 11px; font-weight: 600;
+      color: var(--muted); border: 1px solid var(--border);
+      padding: 3px 10px; border-radius: 4px;
+    }
+
+    /* ── Para empresas ───────────────────────────────────────── */
+    #empresas { padding: 100px 0; }
+    .empresas-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 64px; align-items: center;
+    }
+    .beneficios { display: flex; flex-direction: column; gap: 20px; margin-top: 36px; }
+    .beneficio {
+      display: flex; gap: 16px; align-items: flex-start;
+    }
+    .beneficio-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--green); flex-shrink: 0; margin-top: 7px;
+    }
+    .beneficio-text h5 {
+      font-size: 15px; font-weight: 600; margin-bottom: 4px;
+    }
+    .beneficio-text p {
+      font-size: 14px; color: var(--muted); line-height: 1.5;
+    }
+    .cta-card {
+      background: var(--navy-mid);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 40px;
+    }
+    .cta-card-header {
+      font-size: 11px; font-weight: 700; letter-spacing: .12em;
+      text-transform: uppercase; color: var(--green);
+      margin-bottom: 20px;
+    }
+    .cta-card h3 {
+      font-size: 24px; font-weight: 700; margin-bottom: 16px;
+      line-height: 1.3;
+    }
+    .cta-card p {
+      font-size: 14px; color: var(--muted); line-height: 1.65;
+      margin-bottom: 28px;
+    }
+    .cta-card-features { margin-bottom: 32px; }
+    .cta-feature {
+      display: flex; gap: 10px; align-items: center;
+      padding: 10px 0; border-bottom: 1px solid var(--border);
+      font-size: 14px; color: var(--fog);
+    }
+    .cta-feature:last-child { border-bottom: none; }
+    .cta-check { color: var(--green); font-weight: 700; }
+
+    /* ── Base legal ──────────────────────────────────────────── */
+    #legal {
+      padding: 80px 0;
+      background: var(--navy-mid);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+    .legal-grid {
+      display: grid; grid-template-columns: 1fr 2fr;
+      gap: 64px; align-items: center;
+    }
+    .legal-items { display: flex; flex-direction: column; gap: 16px; }
+    .legal-item {
+      background: var(--navy);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 18px 20px;
+      display: flex; gap: 14px; align-items: flex-start;
+    }
+    .legal-item-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green); flex-shrink: 0; margin-top: 6px;
+    }
+    .legal-item-text { font-size: 13px; color: var(--fog); line-height: 1.5; }
+    .legal-item-text strong { color: var(--cream); font-weight: 600; display: block; margin-bottom: 2px; }
+
+    /* ── CTA Final ───────────────────────────────────────────── */
+    #contato { padding: 120px 0; }
+    .contato-inner {
+      max-width: 700px; margin: 0 auto; text-align: center;
+    }
+    .contato-inner .section-title { font-size: clamp(32px, 5vw, 52px); }
+    .contato-inner p {
+      font-size: 18px; color: var(--fog); line-height: 1.7;
+      margin: 20px 0 40px;
+    }
+    .contato-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .contato-detail {
+      margin-top: 48px; padding-top: 48px;
+      border-top: 1px solid var(--border);
+      font-size: 14px; color: var(--muted);
+    }
+    .contato-detail a { color: var(--green); }
+    .contato-detail a:hover { text-decoration: underline; }
+
+    /* ── Footer ──────────────────────────────────────────────── */
+    footer {
+      padding: 40px 0;
+      border-top: 1px solid var(--border);
+    }
+    .footer-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 16px;
+    }
+    .footer-logo { display: flex; align-items: center; gap: 10px; }
+    .footer-logo img { height: 22px; }
+    .footer-logo span { font-size: 14px; font-weight: 600; color: var(--muted); }
+    .footer-copy { font-size: 13px; color: var(--muted); }
+    .footer-links { display: flex; gap: 24px; }
+    .footer-links a { font-size: 13px; color: var(--muted); transition: color .2s; }
+    .footer-links a:hover { color: var(--cream); }
+
+    /* ── Responsive ──────────────────────────────────────────── */
+    @media (max-width: 900px) {
+      .hero-grid, .problema-grid, .empresas-grid, .legal-grid { grid-template-columns: 1fr; gap: 48px; }
+      .solucao-grid { grid-template-columns: 1fr; }
+      .impacto-nums { grid-template-columns: repeat(2, 1fr); }
+      .impacto-dims { grid-template-columns: 1fr; }
+      .fase { grid-template-columns: 1fr; }
+      .fase-num { flex-direction: row; border-right: none; border-bottom: 1px solid var(--border); }
+      .nav-links { display: none; }
+      .hero-stats { margin-top: 40px; }
+    }
+    @media (max-width: 560px) {
+      .impacto-nums { grid-template-columns: 1fr 1fr; }
+      .hero-stats { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ── Nav ──────────────────────────────────────────────────── -->
+  <nav>
+    <div class="inner">
+      <a href="#" class="nav-logo">
+        <img src="public/logo.svg" alt="Karaguá Ecotech" onerror="this.style.display='none'">
+      </a>
+      <ul class="nav-links">
+        <li><a href="#solucao">Solução</a></li>
+        <li><a href="#impacto">Impacto</a></li>
+        <li><a href="#como-funciona">Como funciona</a></li>
+        <li><a href="#empresas">Para empresas</a></li>
+        <li><a href="grafo_karagua.html">Base de conhecimento</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a href="#contato" class="btn btn-primary">Seja parceiro</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Hero ─────────────────────────────────────────────────── -->
+  <section id="hero">
+    <canvas id="hero-canvas"></canvas>
+    <div class="container">
+      <div class="hero-grid">
+        <div>
+          <p class="hero-eyebrow reveal">Carbono Azul · Santa Catarina · Brasil</p>
+          <h1 class="hero-title reveal reveal-delay-1">
+            O manguezal é um ativo climático.
+            <em>Tratamos ele como tal.</em>
+          </h1>
+          <p class="hero-sub reveal reveal-delay-2">
+            A Karaguá Ecotech estrutura projetos de certificação de créditos de carbono azul em manguezais, integrando ciência aplicada, tecnologia de monitoramento e participação comunitária remunerada.
+          </p>
+          <div class="hero-actions reveal reveal-delay-3">
+            <a href="#empresas" class="btn btn-primary">Adquirir créditos de carbono</a>
+            <a href="#solucao" class="btn btn-outline">Como funciona</a>
+          </div>
+        </div>
+
+        <div class="hero-stats reveal reveal-delay-2">
+          <div class="hero-stat">
+            <div class="hero-stat-num" data-count="380">0</div>
+            <div class="hero-stat-label">hectares no piloto em<br>Balneário Barra do Sul</div>
+          </div>
+          <div class="hero-stat">
+            <div class="hero-stat-num hero-stat-accent" data-prefix="R$" data-count="1.2" data-suffix="M/ano">R$ 0</div>
+            <div class="hero-stat-label">estimativa de receita<br>em créditos de carbono</div>
+          </div>
+          <div class="hero-stat">
+            <div class="hero-stat-num" data-count="8000">0</div>
+            <div class="hero-stat-label">hectares de potencial na<br>Baía da Babitonga</div>
+          </div>
+          <div class="hero-stat">
+            <div class="hero-stat-num hero-stat-accent" data-count="400" data-suffix="+">0</div>
+            <div class="hero-stat-label">famílias impactadas<br>até 2035</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ── Problema ──────────────────────────────────────────────── -->
+  <section id="problema">
+    <div class="container">
+      <div class="problema-grid">
+        <div>
+          <div class="tag reveal">O problema</div>
+          <h2 class="section-title reveal reveal-delay-1">
+            Um ativo climático que se degrada sem gerar retorno.
+          </h2>
+          <p class="section-lead reveal reveal-delay-2">
+            O Brasil concentra 7,4% dos manguezais do planeta são 1,4 milhão de hectares com capacidade de sequestro de carbono superior, por hectare, à de muitas florestas tropicais em terra firme.
+          </p>
+          <div class="problema-highlight reveal reveal-delay-3">
+            <p>
+              Comunidades costeiras convivem com o manguezal diariamente, mas <strong>não recebem nada pela conservação</strong>. Municípios não têm instrumentos financeiros para proteger essas áreas. O resultado: um ativo climático estratégico que se degrada sem que ninguém capture o valor que ele pode gerar.
+            </p>
+          </div>
+        </div>
+        <div class="problema-cards">
+          <div class="problema-card reveal reveal-delay-1">
+            <div class="problema-card-icon"><i data-lucide="banknote"></i></div>
+            <h4>Sem mecanismo de retorno</h4>
+            <p>A conservação do manguezal nunca foi convertida em renda para os territórios onde eles existem. Não há incentivo econômico para manter essas áreas intactas.</p>
+          </div>
+          <div class="problema-card reveal reveal-delay-2">
+            <div class="problema-card-icon"><i data-lucide="users"></i></div>
+            <h4>Comunidades sem remuneração</h4>
+            <p>Pescadores e moradores que monitoram informalmente o manguezal não são reconhecidos nem remunerados por esse papel. Seu saber territorial fica de fora da cadeia produtiva.</p>
+          </div>
+          <div class="problema-card reveal reveal-delay-3">
+            <div class="problema-card-icon"><i data-lucide="landmark"></i></div>
+            <h4>Municípios sem instrumentos</h4>
+            <p>Prefeituras litorâneas não dispõem de ferramentas financeiras para manter a conservação quando há pressão por uso do solo, urbanização ou descarte irregular.</p>
+          </div>
+          <div class="problema-card reveal reveal-delay-4">
+            <div class="problema-card-icon"><i data-lucide="trending-up"></i></div>
+            <h4>Mercado com demanda crescente</h4>
+            <p>Créditos de alta qualidade subiram de US$ 14 para US$ 26/tCO₂e em 2025 (Sylvera). A oferta de carbono azul certificado ainda é limitada. A janela é agora.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Solução ────────────────────────────────────────────────── -->
+  <section id="solucao">
+    <div class="container">
+      <div class="solucao-header">
+        <div class="tag reveal">A solução</div>
+        <h2 class="section-title reveal reveal-delay-1">
+          Carbono Azul com dados verificáveis,<br>comunidade remunerada e escala territorial.
+        </h2>
+      </div>
+      <div class="solucao-grid">
+        <div class="solucao-card reveal">
+          <div class="solucao-card-num">01 — Certificação</div>
+          <h3>Créditos de carbono azul de alta integridade</h3>
+          <p>Medimos, monitoramos e certificamos o carbono estocado e sequestrado em áreas de manguezal. Cada crédito representa uma tonelada de CO₂ equivalente com rastreabilidade completa de dados ambientais.</p>
+          <span class="method-tag">VM0033 · VM0007 · Verra</span>
+        </div>
+        <div class="solucao-card reveal reveal-delay-1">
+          <div class="solucao-card-num">02 — Comunidade</div>
+          <h3>PSA: moradores e pescadores na cadeia produtiva</h3>
+          <p>O mecanismo de Pagamento por Serviços Ambientais (PSA) remunera diretamente quem vive no território. Saber local, presença diária e conhecimento dos ciclos do manguezal são parte da operação.</p>
+          <span class="method-tag">Lei 15.133/2010 SC · PEPSA</span>
+        </div>
+        <div class="solucao-card reveal reveal-delay-2">
+          <div class="solucao-card-num">03 — Tecnologia</div>
+          <h3>IoTs, dados contínuos e plataforma pública</h3>
+          <p>Sensores e dispositivos IoT captam dados da água e do ambiente em campo. Toda a informação gerada será disponibilizada em plataforma digital pública, garantindo transparência para compradores, municípios e comunidades.</p>
+          <span class="method-tag">Monitoramento contínuo</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Impacto ────────────────────────────────────────────────── -->
+  <section id="impacto">
+    <div class="container">
+      <div class="impacto-header">
+        <div class="tag reveal">Impacto</div>
+        <h2 class="section-title reveal reveal-delay-1">Quatro dimensões de resultado.</h2>
+        <p class="section-lead reveal reveal-delay-2">Climático, ecológico, social e tecnológico. O modelo foi desenhado para que cada dimensão sustente as demais.</p>
+      </div>
+
+      <div class="impacto-nums">
+        <div class="impacto-num reveal">
+          <div class="impacto-num-value" data-count="1.4" data-suffix="M ha">0</div>
+          <div class="impacto-num-unit">de manguezais no Brasil</div>
+          <div class="impacto-num-label">7,4% da área global de manguezais</div>
+        </div>
+        <div class="impacto-num reveal reveal-delay-1">
+          <div class="impacto-num-value" data-count="50" data-prefix="US$" data-suffix="B">0</div>
+          <div class="impacto-num-unit">mercado global de carbono</div>
+          <div class="impacto-num-label">projeção até 2030 (McKinsey)</div>
+        </div>
+        <div class="impacto-num reveal reveal-delay-2">
+          <div class="impacto-num-value" data-count="70" data-suffix="%">0</div>
+          <div class="impacto-num-unit">das espécies-alvo da pesca</div>
+          <div class="impacto-num-label">se reproduzem na Baía da Babitonga</div>
+        </div>
+        <div class="impacto-num reveal reveal-delay-3">
+          <div class="impacto-num-value" data-count="4000" data-suffix=" ha">0</div>
+          <div class="impacto-num-unit">meta de cobertura</div>
+          <div class="impacto-num-label">50% da Baía da Babitonga até 2035</div>
+        </div>
+      </div>
+
+      <div class="impacto-dims">
+        <div class="impacto-dim reveal">
+          <div class="impacto-dim-icon"><i data-lucide="thermometer"></i></div>
+          <div>
+            <h4>Climático</h4>
+            <p>Créditos de carbono azul certificados pelas metodologias VM0033 e VM0007 da Verra, destinados a empresas com metas de descarbonização e estratégias ESG verificáveis.</p>
+          </div>
+        </div>
+        <div class="impacto-dim reveal reveal-delay-1">
+          <div class="impacto-dim-icon"><i data-lucide="leaf"></i></div>
+          <div>
+            <h4>Ecológico</h4>
+            <p>Conservação de berçário marinho, barreira contra erosão costeira e proteção de espécies ameaçadas como toninha, boto-cinza, tartaruga-verde e mero na Baía da Babitonga.</p>
+          </div>
+        </div>
+        <div class="impacto-dim reveal reveal-delay-2">
+          <div class="impacto-dim-icon"><i data-lucide="home"></i></div>
+          <div>
+            <h4>Social</h4>
+            <p>Mais de 400 famílias impactadas até 2035, com renda gerada diretamente pelo PSA, compartilhamento de receita com municípios e formação de estudantes via UDESC e Univille.</p>
+          </div>
+        </div>
+        <div class="impacto-dim reveal reveal-delay-3">
+          <div class="impacto-dim-icon"><i data-lucide="cpu"></i></div>
+          <div>
+            <h4>Tecnológico</h4>
+            <p>Dados ambientais coletados por IoTs, rastreabilidade completa das ações de restauração e transparência pública via plataforma digital aberta, fortalecendo a credibilidade dos créditos no mercado.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Como funciona ──────────────────────────────────────────── -->
+  <section id="como-funciona">
+    <div class="container">
+      <div class="fases-header">
+        <div class="tag reveal">Karaguá Vivo</div>
+        <h2 class="section-title reveal reveal-delay-1">Quatro fases. Um modelo escalável.</h2>
+        <p class="section-lead reveal reveal-delay-2">Do piloto em Balneário Barra do Sul à cobertura de metade da Baía da Babitonga, com plataforma de dados aberta para todos.</p>
+      </div>
+      <div class="fases">
+        <div class="fase reveal">
+          <div class="fase-num">
+            <span class="fase-num-label">Fase 01</span>
+            <span class="fase-num-title">Piloto</span>
+            <span class="fase-num-status">Em andamento</span>
+          </div>
+          <div class="fase-content">
+            <h4>Balneário Barra do Sul — 380 ha</h4>
+            <p>Capacitação e remuneração da comunidade para mapear e monitorar a área. Implantação de IoTs, geração dos primeiros créditos de carbono (estimativa de R$ 1,2M/ano) e estruturação da base legal com o município dentro do marco da Lei 15.133/2010.</p>
+            <div class="fase-tags">
+              <span class="fase-tag">Monitoramento comunitário</span>
+              <span class="fase-tag">IoTs de campo</span>
+              <span class="fase-tag">Certificação inicial</span>
+              <span class="fase-tag">UDESC · Univille</span>
+            </div>
+          </div>
+        </div>
+        <div class="fase reveal reveal-delay-1">
+          <div class="fase-num">
+            <span class="fase-num-label">Fase 02</span>
+            <span class="fase-num-title">Restauração</span>
+            <span class="fase-num-status">Sequencial</span>
+          </div>
+          <div class="fase-content">
+            <h4>Restauração ativa do manguezal</h4>
+            <p>Seleção de áreas prioritárias para plantio e reflorestamento. Moradores recebem treinamento prático, equipamentos e acompanhamento técnico, remunerados pelo desempenho nas ações de recuperação ambiental.</p>
+            <div class="fase-tags">
+              <span class="fase-tag">Plantio supervisionado</span>
+              <span class="fase-tag">Rastreabilidade de dados</span>
+              <span class="fase-tag">Documentação técnica</span>
+            </div>
+          </div>
+        </div>
+        <div class="fase reveal reveal-delay-2">
+          <div class="fase-num">
+            <span class="fase-num-label">Fase 03</span>
+            <span class="fase-num-title">Escala</span>
+            <span class="fase-num-status">3 anos</span>
+          </div>
+          <div class="fase-content">
+            <h4>Baía da Babitonga — até 8.000 ha</h4>
+            <p>Replicação do modelo validado ao longo da baía, integrando novos municípios e ampliando a rede comunitária. Meta de R$ 1,2M/ano em créditos com compartilhamento de receita com os municípios parceiros. Captação estruturada via BNDES Fundo Clima.</p>
+            <div class="fase-tags">
+              <span class="fase-tag">Expansão municipal</span>
+              <span class="fase-tag">BNDES Fundo Clima</span>
+              <span class="fase-tag">PSA em escala</span>
+            </div>
+          </div>
+        </div>
+        <div class="fase reveal reveal-delay-3">
+          <div class="fase-num">
+            <span class="fase-num-label">Fase 04</span>
+            <span class="fase-num-title">Plataforma</span>
+            <span class="fase-num-status">Futura</span>
+          </div>
+          <div class="fase-content">
+            <h4>Plataforma digital pública</h4>
+            <p>Todos os dados de monitoramento, rastreabilidade das ações e informações dos créditos certificados disponíveis em acesso aberto. Ferramenta de governança territorial para municípios, comunidades e compradores de crédito.</p>
+            <div class="fase-tags">
+              <span class="fase-tag">Dados abertos</span>
+              <span class="fase-tag">Governança territorial</span>
+              <span class="fase-tag">Transparência pública</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Para empresas ──────────────────────────────────────────── -->
+  <section id="empresas">
+    <div class="container">
+      <div class="empresas-grid">
+        <div>
+          <div class="tag reveal">Para empresas</div>
+          <h2 class="section-title reveal reveal-delay-1">
+            Créditos de carbono com co-benefícios verificáveis.
+          </h2>
+          <p class="section-lead reveal reveal-delay-2">
+            Créditos de Carbono Azul vinculados a manguezais têm valor diferenciado no mercado porque combinam sequestro de carbono de alta qualidade com benefícios socioambientais mensuráveis.
+          </p>
+          <div class="beneficios">
+            <div class="beneficio reveal reveal-delay-1">
+              <div class="beneficio-dot"></div>
+              <div class="beneficio-text">
+                <h5>Alta integridade climática</h5>
+                <p>Créditos gerados por metodologias reconhecidas internacionalmente (VM0033 e VM0007 da Verra), com dados verificáveis e rastreabilidade completa do processo.</p>
+              </div>
+            </div>
+            <div class="beneficio reveal reveal-delay-2">
+              <div class="beneficio-dot"></div>
+              <div class="beneficio-text">
+                <h5>Co-benefícios socioambientais</h5>
+                <p>Cada crédito adquirido financia diretamente a remuneração de comunidades costeiras, a conservação de ecossistemas e a geração de dados ambientais públicos.</p>
+              </div>
+            </div>
+            <div class="beneficio reveal reveal-delay-3">
+              <div class="beneficio-dot"></div>
+              <div class="beneficio-text">
+                <h5>Alinhamento com metas ESG e net zero</h5>
+                <p>Estratégia de descarbonização e compensação complementar com impacto documentado, compatível com compromissos públicos de sustentabilidade e relatórios GRI/SASB.</p>
+              </div>
+            </div>
+            <div class="beneficio reveal reveal-delay-4">
+              <div class="beneficio-dot"></div>
+              <div class="beneficio-text">
+                <h5>Posicionamento de marca</h5>
+                <p>Associação a um projeto de referência em Carbono Azul no litoral catarinense, com respaldo científico, base legal sólida e visibilidade crescente no mercado regulado brasileiro.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="cta-card reveal reveal-delay-2">
+          <div class="cta-card-header">Parceria comercial</div>
+          <h3>Torne-se comprador de créditos ou apoiador institucional</h3>
+          <p>Conectamos sua empresa a um ativo climático de alta qualidade, com impacto real e mensurável no litoral de Santa Catarina.</p>
+          <div class="cta-card-features">
+            <div class="cta-feature">
+              <span class="cta-check">✓</span>
+              <span>Créditos certificados por metodologia Verra</span>
+            </div>
+            <div class="cta-feature">
+              <span class="cta-check">✓</span>
+              <span>Rastreabilidade de dados ambiental completa</span>
+            </div>
+            <div class="cta-feature">
+              <span class="cta-check">✓</span>
+              <span>Visitas técnicas e relatórios de impacto</span>
+            </div>
+            <div class="cta-feature">
+              <span class="cta-check">✓</span>
+              <span>Compartilhamento de receita com comunidade e municípios</span>
+            </div>
+            <div class="cta-feature">
+              <span class="cta-check">✓</span>
+              <span>Acesso à plataforma de dados públicos</span>
+            </div>
+          </div>
+          <a href="#contato" class="btn btn-primary btn-block">
+            Iniciar conversa
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Base legal ─────────────────────────────────────────────── -->
+  <section id="legal">
+    <div class="container">
+      <div class="legal-grid">
+        <div>
+          <div class="tag reveal">Base legal e institucional</div>
+          <h2 class="section-title reveal reveal-delay-1">
+            Estruturado sobre marcos regulatórios sólidos.
+          </h2>
+          <p class="section-lead reveal reveal-delay-2" style="font-size:16px;">
+            O projeto não depende de legislação futura. Os marcos que sustentam o modelo já existem e estão em vigor.
+          </p>
+        </div>
+        <div class="legal-items">
+          <div class="legal-item reveal">
+            <div class="legal-item-dot"></div>
+            <div class="legal-item-text">
+              <strong>ProManguezal — Decreto nº 12.045/2024</strong>
+              Programa nacional de conservação, recuperação e uso sustentável de manguezais, instituído em 2024 e que reforça a relevância institucional do setor.
+            </div>
+          </div>
+          <div class="legal-item reveal reveal-delay-1">
+            <div class="legal-item-dot"></div>
+            <div class="legal-item-text">
+              <strong>Mercado regulado de carbono — Lei nº 15.042/2024</strong>
+              Marco regulatório do mercado brasileiro de carbono, ampliando o horizonte de comercialização de créditos no país.
+            </div>
+          </div>
+          <div class="legal-item reveal reveal-delay-2">
+            <div class="legal-item-dot"></div>
+            <div class="legal-item-text">
+              <strong>PEPSA — Lei Estadual nº 15.133/2010 (SC)</strong>
+              Política Estadual de Serviços Ambientais de Santa Catarina. Reconhece o PSA como ferramenta de desenvolvimento sustentável e permite remunerar atividades de conservação e restauração.
+            </div>
+          </div>
+          <div class="legal-item reveal reveal-delay-3">
+            <div class="legal-item-dot"></div>
+            <div class="legal-item-text">
+              <strong>BNDES Fundo Clima — R$ 42,5 bilhões autorizados (2026)</strong>
+              Linha de financiamento com custo de 1% ao ano para projetos de PSA, recomposição de cobertura vegetal e manejo sustentável. Perfil alinhado à operação da Karaguá.
+            </div>
+          </div>
+          <div class="legal-item reveal reveal-delay-4">
+            <div class="legal-item-dot"></div>
+            <div class="legal-item-text">
+              <strong>Metodologias Verra — VM0033 e VM0007</strong>
+              Padrões internacionalmente reconhecidos para certificação de créditos de carbono azul (VM0033) e REDD+ (VM0007), com auditoria independente e verificação periódica.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CTA Final ──────────────────────────────────────────────── -->
+  <section id="contato">
+    <div class="container">
+      <div class="contato-inner">
+        <div class="tag reveal">Contato</div>
+        <h2 class="section-title reveal reveal-delay-1">
+          Pronto para transformar conservação em valor?
+        </h2>
+        <p class="reveal reveal-delay-2">
+          Estamos em busca de empresas compradoras de créditos de carbono azul, apoiadores institucionais e parceiros estratégicos que queiram participar de um modelo que une retorno financeiro, restauração da natureza e impacto social.
+        </p>
+        <div class="contato-actions reveal reveal-delay-3">
+          <a href="mailto:contato@karagua.eco.br" class="btn btn-primary">Entrar em contato</a>
+          <a href="#solucao" class="btn btn-outline">Conhecer a solução</a>
+        </div>
+        <div class="contato-detail reveal reveal-delay-4">
+          Balneário Barra do Sul · Santa Catarina · Brasil<br>
+          <a href="mailto:contato@karagua.eco.br">contato@karagua.eco.br</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Footer ─────────────────────────────────────────────────── -->
+  <footer>
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-logo">
+          <img src="public/logo.svg" alt="Karaguá" onerror="this.style.display='none'">
+          <span>Karaguá Ecotech</span>
+        </div>
+        <div class="footer-copy">
+          © 2025 Karaguá Ecotech. Empresa privada de impacto socioambiental.
+        </div>
+        <div class="footer-links">
+          <a href="#solucao">Solução</a>
+          <a href="#impacto">Impacto</a>
+          <a href="#empresas">Para empresas</a>
+          <a href="#contato">Contato</a>
+          <a href="grafo_karagua.html">Base de conhecimento</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js"></script>
+  <script>
+    lucide.createIcons();
+
+    // ── Scroll reveal ────────────────────────────────────────────
+    const observer = new IntersectionObserver(
+      entries => entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); } }),
+      { threshold: 0.12 }
+    );
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+    // ── Counter animation ────────────────────────────────────────
+    function animateCounter(el) {
+      const target = parseFloat(el.dataset.count);
+      const prefix = el.dataset.prefix || '';
+      const suffix = el.dataset.suffix || '';
+      const isFloat = target % 1 !== 0;
+      const duration = 1600;
+      const step = 16;
+      const steps = duration / step;
+      let current = 0;
+      const increment = target / steps;
+      const timer = setInterval(() => {
+        current += increment;
+        if (current >= target) { current = target; clearInterval(timer); }
+        const display = isFloat ? current.toFixed(1) : Math.floor(current).toLocaleString('pt-BR');
+        el.textContent = prefix + display + suffix;
+      }, step);
+    }
+
+    const counterObserver = new IntersectionObserver(
+      entries => entries.forEach(e => {
+        if (e.isIntersecting) {
+          animateCounter(e.target);
+          counterObserver.unobserve(e.target);
+        }
+      }),
+      { threshold: 0.3 }
+    );
+    document.querySelectorAll('[data-count]').forEach(el => {
+      const prefix = el.dataset.prefix || '';
+      el.textContent = prefix + '0';
+      counterObserver.observe(el);
+    });
+
+    // ── Nav active link ──────────────────────────────────────────
+    const sections = document.querySelectorAll('section[id]');
+    const navLinks = document.querySelectorAll('.nav-links a');
+    let _activeId = '';
+    window.addEventListener('scroll', () => {
+      let current = '';
+      sections.forEach(s => { if (window.scrollY >= s.offsetTop - 100) current = s.id; });
+      if (current === _activeId) return;
+      _activeId = current;
+      navLinks.forEach(a => {
+        a.style.color = a.getAttribute('href') === '#' + current ? 'var(--cream)' : '';
+      });
+    });
+  </script>
+
+  <!-- ── Three.js hero scene ──────────────────────────────────── -->
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+  <script type="module">
+    import * as THREE from 'three';
+    import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+    const gsap   = window.gsap;
+    const canvas = document.getElementById('hero-canvas');
+    const hero   = document.getElementById('hero');
+
+    // ── Renderer ────────────────────────────────────────────────
+    const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.outputColorSpace   = THREE.SRGBColorSpace;
+    renderer.toneMapping        = THREE.ACESFilmicToneMapping;
+    renderer.toneMappingExposure = 0.6;
+
+    const scene  = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(42, 1, 0.1, 100);
+    camera.position.set(0, 0.2, 5);
+
+    // ── Lights ──────────────────────────────────────────────────
+    scene.add(new THREE.AmbientLight(0xffffff, 0.18));
+
+    const key = new THREE.DirectionalLight(0xddeeff, 0.6);
+    key.position.set(4, 6, 3);
+    scene.add(key);
+
+    const rim = new THREE.PointLight(0x1ABC9C, 0.4, 18);
+    rim.position.set(-4, 2, 1);
+    scene.add(rim);
+
+    const fill = new THREE.PointLight(0xc7d926, 0.6, 18);
+    fill.position.set(2, -3, 2);
+    scene.add(fill);
+
+    const back = new THREE.PointLight(0x1a2332, 0.8, 15);
+    back.position.set(0, 0, -4);
+    scene.add(back);
+
+    // ── Pivot ───────────────────────────────────────────────────
+    const pivot = new THREE.Group();
+    pivot.position.set(-3.2, -0.4, -0.8);
+    pivot.scale.setScalar(0.001);
+    scene.add(pivot);
+
+    // ── Load GLB ────────────────────────────────────────────────
+    new GLTFLoader().load('Mangroove.glb', (gltf) => {
+      const model = gltf.scene;
+
+      pivot.scale.setScalar(1);
+      pivot.add(model);
+      pivot.updateMatrixWorld(true);
+
+      const box    = new THREE.Box3().setFromObject(model);
+      const center = box.getCenter(new THREE.Vector3());
+      const size   = box.getSize(new THREE.Vector3());
+
+      model.position.set(-center.x, -center.y, -center.z);
+      const s = 2.8 / Math.max(size.x, size.y, size.z, 0.001);
+      pivot.scale.setScalar(s);
+
+      // Balanço orgânico: oscila ±12° como planta ao vento
+      gsap.fromTo(pivot.rotation,
+        { y: -0.21 },
+        { y: 0.21, duration: 7, repeat: -1, yoyo: true, ease: 'sine.inOut' }
+      );
+
+      // Flutuação discreta: ±6 cm relativa à posição base
+      const baseY = pivot.position.y;
+      gsap.fromTo(pivot.position,
+        { y: baseY - 0.06 },
+        { y: baseY + 0.06, duration: 6, repeat: -1, yoyo: true, ease: 'sine.inOut' }
+      );
+
+      // Respiração de escala: pulsa ±1% sutilmente
+      gsap.to(pivot.scale, {
+        x: s * 1.012, y: s * 1.012, z: s * 1.012,
+        duration: 4.5, repeat: -1, yoyo: true, ease: 'sine.inOut'
+      });
+
+    }, undefined, (err) => console.warn('[Hero3D]', err));
+
+    // ── Parallax de mouse: lento e suave ────────────────────────
+    const heroRect = () => hero.getBoundingClientRect();
+    document.addEventListener('mousemove', (e) => {
+      const r = heroRect();
+      if (e.clientY < r.top || e.clientY > r.bottom) return;
+      gsap.to(pivot.rotation, {
+        x: (e.clientY / window.innerHeight - 0.5) * -0.14,
+        z: (e.clientX / window.innerWidth  - 0.5) *  0.09,
+        duration: 3.5, ease: 'power1.out', overwrite: 'auto'
+      });
+    });
+
+    // ── Resize ──────────────────────────────────────────────────
+    function resize() {
+      const w = hero.clientWidth, h = hero.clientHeight;
+      renderer.setSize(w, h, false);
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+    }
+    resize();
+    window.addEventListener('resize', resize);
+
+    renderer.setAnimationLoop(() => renderer.render(scene, camera));
+  </script>
+</body>
+</html>

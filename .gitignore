@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# RAG generated data
+lightrag_pdf_otimizado/
+
+# OS
+.DS_Store
+Thumbs.db
