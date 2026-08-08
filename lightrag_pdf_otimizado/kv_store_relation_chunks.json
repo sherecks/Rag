@@ -1,0 +1,3620 @@
+{
+  "Balnéario Barra do Sul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586715,
+    "update_time": 1779586715,
+    "_id": "Balnéario Barra do Sul<SEP>Karaguá Ecotech"
+  },
+  "Monitoramento Ecológico<SEP>Programa de Monitoramento Contínuo": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586715,
+    "update_time": 1779586715,
+    "_id": "Monitoramento Ecológico<SEP>Programa de Monitoramento Contínuo"
+  },
+  "João Pedro Patrício do Nascimento<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586715,
+    "update_time": 1779586715,
+    "_id": "João Pedro Patrício do Nascimento<SEP>Karaguá Ecotech"
+  },
+  "Balnéario Barra do Sul<SEP>Restauração Ecológica": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586715,
+    "update_time": 1779586715,
+    "_id": "Balnéario Barra do Sul<SEP>Restauração Ecológica"
+  },
+  "Karaguá Ecotech<SEP>Lucas Cunha Melo": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586716,
+    "update_time": 1779586716,
+    "_id": "Karaguá Ecotech<SEP>Lucas Cunha Melo"
+  },
+  "Ano 1<SEP>Balnéario Barra do Sul": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586716,
+    "update_time": 1779586716,
+    "_id": "Ano 1<SEP>Balnéario Barra do Sul"
+  },
+  "Ano 2<SEP>Balnéario Barra do Sul": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586716,
+    "update_time": 1779586716,
+    "_id": "Ano 2<SEP>Balnéario Barra do Sul"
+  },
+  "Ano 3<SEP>Balnéario Barra do Sul": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586716,
+    "update_time": 1779586716,
+    "_id": "Ano 3<SEP>Balnéario Barra do Sul"
+  },
+  "Balneário Barra do Sul<SEP>Área de Preservação Permanente": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586732,
+    "update_time": 1779586732,
+    "_id": "Balneário Barra do Sul<SEP>Área de Preservação Permanente"
+  },
+  "Canal do Linguado<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586732,
+    "update_time": 1779586732,
+    "_id": "Canal do Linguado<SEP>Manguezal"
+  },
+  "Manguezal<SEP>Mata Atlântica": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586732,
+    "update_time": 1779586732,
+    "_id": "Manguezal<SEP>Mata Atlântica"
+  },
+  "Diagnóstico Socioambiental<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586732,
+    "update_time": 1779586732,
+    "_id": "Diagnóstico Socioambiental<SEP>Manguezal"
+  },
+  "Manguezal<SEP>Restauração Ecológica": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586732,
+    "update_time": 1779586732,
+    "_id": "Manguezal<SEP>Restauração Ecológica"
+  },
+  "Manguezal<SEP>Peixes e Crustáceos": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586733,
+    "update_time": 1779586733,
+    "_id": "Manguezal<SEP>Peixes e Crustáceos"
+  },
+  "Manguezal<SEP>Serviços Ambientais": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586733,
+    "update_time": 1779586733,
+    "_id": "Manguezal<SEP>Serviços Ambientais"
+  },
+  "Carbono Azul<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 2,
+    "update_time": 1779586943,
+    "_id": "Carbono Azul<SEP>Manguezal"
+  },
+  "Manguezal<SEP>Serviços Ecossistêmicos": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586751,
+    "update_time": 1779586751,
+    "_id": "Manguezal<SEP>Serviços Ecossistêmicos"
+  },
+  "Comunidade Local<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586751,
+    "update_time": 1779586751,
+    "_id": "Comunidade Local<SEP>Manguezal"
+  },
+  "Manguezal<SEP>UDESC": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61",
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 2,
+    "update_time": 1779587115,
+    "_id": "Manguezal<SEP>UDESC"
+  },
+  "Comunidade Local<SEP>Educação Ambiental": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586752,
+    "update_time": 1779586752,
+    "_id": "Comunidade Local<SEP>Educação Ambiental"
+  },
+  "Cobrimento Vegetal<SEP>Monitoramento Ecológico": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586752,
+    "update_time": 1779586752,
+    "_id": "Cobrimento Vegetal<SEP>Monitoramento Ecológico"
+  },
+  "Manguezal<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61",
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 2,
+    "update_time": 1779587115,
+    "_id": "Manguezal<SEP>Univille"
+  },
+  "Monitoramento Ecológico<SEP>Recrutamento de Plântulas": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586752,
+    "update_time": 1779586752,
+    "_id": "Monitoramento Ecológico<SEP>Recrutamento de Plântulas"
+  },
+  "Manguezal<SEP>Pagamentos por Serviços Ambientais (PSA)": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586752,
+    "update_time": 1779586752,
+    "_id": "Manguezal<SEP>Pagamentos por Serviços Ambientais (PSA)"
+  },
+  "Integridade Ecológica<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586753,
+    "update_time": 1779586753,
+    "_id": "Integridade Ecológica<SEP>Manguezal"
+  },
+  "Biodiversidade Local<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586753,
+    "update_time": 1779586753,
+    "_id": "Biodiversidade Local<SEP>Manguezal"
+  },
+  "Manguezal<SEP>Monitoramento Ecológico": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586753,
+    "update_time": 1779586753,
+    "_id": "Manguezal<SEP>Monitoramento Ecológico"
+  },
+  "Manguezal<SEP>Preservação da Linha de Costa": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586753,
+    "update_time": 1779586753,
+    "_id": "Manguezal<SEP>Preservação da Linha de Costa"
+  },
+  "Lagoa Maria Fernanda<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586774,
+    "update_time": 1779586774,
+    "_id": "Lagoa Maria Fernanda<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Canal do Linguado<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586774,
+    "update_time": 1779586774,
+    "_id": "Canal do Linguado<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Baía da Babitonga<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586774,
+    "update_time": 1779586774,
+    "_id": "Baía da Babitonga<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Manguezal de Balneário Barra do Sul<SEP>Rhizophora Mangle": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586774,
+    "update_time": 1779586774,
+    "_id": "Manguezal de Balneário Barra do Sul<SEP>Rhizophora Mangle"
+  },
+  "Avicennia Schaueriana<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586775,
+    "update_time": 1779586775,
+    "_id": "Avicennia Schaueriana<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Laguncularia Racemosa<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586775,
+    "update_time": 1779586775,
+    "_id": "Laguncularia Racemosa<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Manguezal de Balneário Barra do Sul<SEP>Mata Atlântica": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586776,
+    "update_time": 1779586776,
+    "_id": "Manguezal de Balneário Barra do Sul<SEP>Mata Atlântica"
+  },
+  "Ecossistema<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586776,
+    "update_time": 1779586776,
+    "_id": "Ecossistema<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Diagnóstico Socioambiental<SEP>Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586776,
+    "update_time": 1779586776,
+    "_id": "Diagnóstico Socioambiental<SEP>Manguezal de Balneário Barra do Sul"
+  },
+  "Manguezal de Balneário Barra do Sul<SEP>Usos Inadequados": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586776,
+    "update_time": 1779586776,
+    "_id": "Manguezal de Balneário Barra do Sul<SEP>Usos Inadequados"
+  },
+  "Diagnóstico Socioambiental<SEP>Impactos Significativos": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586776,
+    "update_time": 1779586776,
+    "_id": "Diagnóstico Socioambiental<SEP>Impactos Significativos"
+  },
+  "Manejo-BBS<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "Manejo-BBS<SEP>Manguezal"
+  },
+  "Parque Natural Municipal do Encanto<SEP>Unidade de Conservação": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "Parque Natural Municipal do Encanto<SEP>Unidade de Conservação"
+  },
+  "PSA Local<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586790,
+    "update_time": 1779586790,
+    "_id": "PSA Local<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Manguezal<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586790,
+    "update_time": 1779586790,
+    "_id": "Manguezal<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Ecological Mangrove Restoration<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586790,
+    "update_time": 1779586790,
+    "_id": "Ecological Mangrove Restoration<SEP>Manguezal"
+  },
+  "APP<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586791,
+    "update_time": 1779586791,
+    "_id": "APP<SEP>Manguezal"
+  },
+  "Ecological Mangrove Restoration<SEP>Recuperação Hidrológica": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586791,
+    "update_time": 1779586791,
+    "_id": "Ecological Mangrove Restoration<SEP>Recuperação Hidrológica"
+  },
+  "Manejo-BBS.pdf<SEP>Mangrove": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Manejo-BBS.pdf<SEP>Mangrove"
+  },
+  "Active Restoration<SEP>Community": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Active Restoration<SEP>Community"
+  },
+  "Community<SEP>Passive Measures": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Community<SEP>Passive Measures"
+  },
+  "Active Restoration<SEP>Rhizophora": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Active Restoration<SEP>Rhizophora"
+  },
+  "Dique de Terra<SEP>Manejo-BBS.pdf": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586805,
+    "update_time": 1779586805,
+    "_id": "Dique de Terra<SEP>Manejo-BBS.pdf"
+  },
+  "Passive Measures<SEP>Placas de Conscientização": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586805,
+    "update_time": 1779586805,
+    "_id": "Passive Measures<SEP>Placas de Conscientização"
+  },
+  "Manejo-BBS.pdf<SEP>Resíduos": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586805,
+    "update_time": 1779586805,
+    "_id": "Manejo-BBS.pdf<SEP>Resíduos"
+  },
+  "Active Restoration<SEP>Avicennia": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586805,
+    "update_time": 1779586805,
+    "_id": "Active Restoration<SEP>Avicennia"
+  },
+  "Active Restoration<SEP>Laguncularia": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586815,
+    "update_time": 1779586815,
+    "_id": "Active Restoration<SEP>Laguncularia"
+  },
+  "Mudas<SEP>Viveiro Comunitário": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Mudas<SEP>Viveiro Comunitário"
+  },
+  "Técnicas de Plantio<SEP>Áreas de Clareiras": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Técnicas de Plantio<SEP>Áreas de Clareiras"
+  },
+  "Manutenção Pós-Plantio<SEP>Mudas": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Manutenção Pós-Plantio<SEP>Mudas"
+  },
+  "Rhizophora Mangle<SEP>Técnicas de Plantio": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Rhizophora Mangle<SEP>Técnicas de Plantio"
+  },
+  "Mudas<SEP>Água Salobra": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Mudas<SEP>Água Salobra"
+  },
+  "Manutenção Pós-Plantio<SEP>Restauração de Manguezais": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Manutenção Pós-Plantio<SEP>Restauração de Manguezais"
+  },
+  "Avicennia<SEP>Técnicas de Plantio": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Avicennia<SEP>Técnicas de Plantio"
+  },
+  "Mudas<SEP>Tempo Estável": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Mudas<SEP>Tempo Estável"
+  },
+  "Laguncularia<SEP>Técnicas de Plantio": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586829,
+    "update_time": 1779586829,
+    "_id": "Laguncularia<SEP>Técnicas de Plantio"
+  },
+  "Programa de Monitoramento Contínuo<SEP>Restauracão do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586844,
+    "update_time": 1779586844,
+    "_id": "Programa de Monitoramento Contínuo<SEP>Restauracão do Manguezal"
+  },
+  "Cobertura Vegetal do Manguezal<SEP>Restauracão do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586844,
+    "update_time": 1779586844,
+    "_id": "Cobertura Vegetal do Manguezal<SEP>Restauracão do Manguezal"
+  },
+  "Restauracão do Manguezal<SEP>Sobrevivência e Crescimento das Mudas Plantadas": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586845,
+    "update_time": 1779586845,
+    "_id": "Restauracão do Manguezal<SEP>Sobrevivência e Crescimento das Mudas Plantadas"
+  },
+  "Cobertura Vegetal do Manguezal<SEP>Recuperação da Estrutura Florestal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586845,
+    "update_time": 1779586845,
+    "_id": "Cobertura Vegetal do Manguezal<SEP>Recuperação da Estrutura Florestal"
+  },
+  "Qualidade da Água e Solo<SEP>Restauracão do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586845,
+    "update_time": 1779586845,
+    "_id": "Qualidade da Água e Solo<SEP>Restauracão do Manguezal"
+  },
+  "Indicadores-Chave<SEP>Restauracão do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586845,
+    "update_time": 1779586845,
+    "_id": "Indicadores-Chave<SEP>Restauracão do Manguezal"
+  },
+  "Qualidade da Água e Solo<SEP>Transparência da Água": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586845,
+    "update_time": 1779586845,
+    "_id": "Qualidade da Água e Solo<SEP>Transparência da Água"
+  },
+  "Caranguejos-Uçá<SEP>Fauna Bentônica": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Caranguejos-Uçá<SEP>Fauna Bentônica"
+  },
+  "Avifauna<SEP>Peixes Juvenis Estuarinos": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Avifauna<SEP>Peixes Juvenis Estuarinos"
+  },
+  "Guardiões do Mangue<SEP>Programa de PSA": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Guardiões do Mangue<SEP>Programa de PSA"
+  },
+  "Métodos de Coleta de Dados<SEP>Parcelas Permanentes de Vegetação": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Métodos de Coleta de Dados<SEP>Parcelas Permanentes de Vegetação"
+  },
+  "Cobertura do Dossel<SEP>Parcelas Permanentes de Vegetação": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Cobertura do Dossel<SEP>Parcelas Permanentes de Vegetação"
+  },
+  "Densidade de Tocas<SEP>Peixes Juvenis Estuarinos": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Densidade de Tocas<SEP>Peixes Juvenis Estuarinos"
+  },
+  "Fauna Bentônica<SEP>Siris": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Fauna Bentônica<SEP>Siris"
+  },
+  "Densidade de Tocas<SEP>Tocas de Caranguejo": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586863,
+    "update_time": 1779586863,
+    "_id": "Densidade de Tocas<SEP>Tocas de Caranguejo"
+  },
+  "Coletas Físico-Químicas<SEP>Refratômetro": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Coletas Físico-Químicas<SEP>Refratômetro"
+  },
+  "Google Sheets<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Google Sheets<SEP>PSA"
+  },
+  "Leaflet.js<SEP>Sistema de Informação Geográfica (SIG)": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Leaflet.js<SEP>Sistema de Informação Geográfica (SIG)"
+  },
+  "Gestão Adaptativa<SEP>Indicadores Críticos": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Gestão Adaptativa<SEP>Indicadores Críticos"
+  },
+  "Delineamento<SEP>Pontos de Monitoramento": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Delineamento<SEP>Pontos de Monitoramento"
+  },
+  "Google Sheets<SEP>Secretaria de Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Google Sheets<SEP>Secretaria de Meio Ambiente"
+  },
+  "Coletas Físico-Químicas<SEP>Sonda": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586877,
+    "update_time": 1779586877,
+    "_id": "Coletas Físico-Químicas<SEP>Sonda"
+  },
+  "Espécies Invasoras<SEP>Manejo-BBS": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Espécies Invasoras<SEP>Manejo-BBS"
+  },
+  "Karaguá Vivo<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 2,
+    "update_time": 1779674751,
+    "_id": "Karaguá Vivo<SEP>Manguezal"
+  },
+  "Autoridades Competentes<SEP>PSA (Pagamento por Serviços Ambientais)": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Autoridades Competentes<SEP>PSA (Pagamento por Serviços Ambientais)"
+  },
+  "Manejo-BBS<SEP>Relatório Anual de Monitoramento": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Manejo-BBS<SEP>Relatório Anual de Monitoramento"
+  },
+  "Karaguá Vivo<SEP>PSA (Pagamento por Serviços Ambientais)": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 2,
+    "update_time": 1779587104,
+    "_id": "Karaguá Vivo<SEP>PSA (Pagamento por Serviços Ambientais)"
+  },
+  "Autoridades Competentes<SEP>Vigilância Comunitária": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Autoridades Competentes<SEP>Vigilância Comunitária"
+  },
+  "Manejo-BBS<SEP>Monitoramento": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586896,
+    "update_time": 1779586896,
+    "_id": "Manejo-BBS<SEP>Monitoramento"
+  },
+  "Manguezal<SEP>PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586912,
+    "update_time": 1779586912,
+    "_id": "Manguezal<SEP>PSA Comunitário Karaguá Vivo"
+  },
+  "Karaguá Ecotech<SEP>PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Karaguá Ecotech<SEP>PSA Comunitário Karaguá Vivo"
+  },
+  "Guardiões do Manguezal<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Guardiões do Manguezal<SEP>Manguezal"
+  },
+  "Duração de Longo Prazo<SEP>PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Duração de Longo Prazo<SEP>PSA Comunitário Karaguá Vivo"
+  },
+  "Famílias Locais<SEP>PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Famílias Locais<SEP>PSA Comunitário Karaguá Vivo"
+  },
+  "Guardiões do Manguezal<SEP>PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Guardiões do Manguezal<SEP>PSA Comunitário Karaguá Vivo"
+  },
+  "Famílias Locais<SEP>Pescadores Artesanais": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586913,
+    "update_time": 1779586913,
+    "_id": "Famílias Locais<SEP>Pescadores Artesanais"
+  },
+  "Famílias Locais<SEP>Maricultores": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586914,
+    "update_time": 1779586914,
+    "_id": "Famílias Locais<SEP>Maricultores"
+  },
+  "Famílias Locais<SEP>Monitor da Prefeitura": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586915,
+    "update_time": 1779586915,
+    "_id": "Famílias Locais<SEP>Monitor da Prefeitura"
+  },
+  "Famílias Locais<SEP>Mutirão de Limpeza": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586915,
+    "update_time": 1779586915,
+    "_id": "Famílias Locais<SEP>Mutirão de Limpeza"
+  },
+  "Manejo-BBS.pdf<SEP>PSA Municipal": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "Manejo-BBS.pdf<SEP>PSA Municipal"
+  },
+  "SCM003<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "SCM003<SEP>SocialCarbon"
+  },
+  "PSA Karaguá Vivo<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "PSA Karaguá Vivo<SEP>SocialCarbon"
+  },
+  "SCM003<SEP>VCS": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "SCM003<SEP>VCS"
+  },
+  "PSA Municipal<SEP>UC": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "PSA Municipal<SEP>UC"
+  },
+  "Documento de Concepção do Projeto<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "Documento de Concepção do Projeto<SEP>SocialCarbon"
+  },
+  "Documento de Concepção do Projeto<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586928,
+    "update_time": 1779586928,
+    "_id": "Documento de Concepção do Projeto<SEP>Manguezal"
+  },
+  "Karaguá Ecotech<SEP>PSA (Guardiões do Manguezal)": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Karaguá Ecotech<SEP>PSA (Guardiões do Manguezal)"
+  },
+  "Créditos de Carbono<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Créditos de Carbono<SEP>Manguezal"
+  },
+  "Ano 2<SEP>Relatório de Monitoramento 1": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Ano 2<SEP>Relatório de Monitoramento 1"
+  },
+  "Karaguá Ecotech<SEP>Manejo-BBS": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Karaguá Ecotech<SEP>Manejo-BBS"
+  },
+  "Ano 3<SEP>Relatório de Monitoramento 1": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Ano 3<SEP>Relatório de Monitoramento 1"
+  },
+  "Karaguá Ecotech<SEP>Municipal Government": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Karaguá Ecotech<SEP>Municipal Government"
+  },
+  "Manguezal<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 2,
+    "update_time": 1779587019,
+    "_id": "Manguezal<SEP>PSA"
+  },
+  "Atividades de Restauração<SEP>UDESC": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586955,
+    "update_time": 1779586955,
+    "_id": "Atividades de Restauração<SEP>UDESC"
+  },
+  "Balneário Barra do Sul<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 2,
+    "update_time": 1779587066,
+    "_id": "Balneário Barra do Sul<SEP>Manguezal"
+  },
+  "Atividades de Restauração<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586955,
+    "update_time": 1779586955,
+    "_id": "Atividades de Restauração<SEP>Univille"
+  },
+  "Instrumentos Legais<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586955,
+    "update_time": 1779586955,
+    "_id": "Instrumentos Legais<SEP>Manguezal"
+  },
+  "Atividades de Restauração<SEP>NGOs": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586955,
+    "update_time": 1779586955,
+    "_id": "Atividades de Restauração<SEP>NGOs"
+  },
+  "Manguezal<SEP>Projeto de Restauração": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586955,
+    "update_time": 1779586955,
+    "_id": "Manguezal<SEP>Projeto de Restauração"
+  },
+  "Karaguá Vivo<SEP>Manejo-BBS": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586970,
+    "update_time": 1779586970,
+    "_id": "Karaguá Vivo<SEP>Manejo-BBS"
+  },
+  "Manguezal<SEP>Mês 3–6": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586970,
+    "update_time": 1779586970,
+    "_id": "Manguezal<SEP>Mês 3–6"
+  },
+  "Manguezal<SEP>Mês 6": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586970,
+    "update_time": 1779586970,
+    "_id": "Manguezal<SEP>Mês 6"
+  },
+  "Manejo-BBS<SEP>Mês 6–12": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586970,
+    "update_time": 1779586970,
+    "_id": "Manejo-BBS<SEP>Mês 6–12"
+  },
+  "Karaguá Vivo<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 2,
+    "update_time": 1779587042,
+    "_id": "Karaguá Vivo<SEP>PSA"
+  },
+  "Manguezal<SEP>Mês 5–8": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586970,
+    "update_time": 1779586970,
+    "_id": "Manguezal<SEP>Mês 5–8"
+  },
+  "Intervenções Hidrológicas<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586971,
+    "update_time": 1779586971,
+    "_id": "Intervenções Hidrológicas<SEP>Manguezal"
+  },
+  "Canteiro Simples<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586971,
+    "update_time": 1779586971,
+    "_id": "Canteiro Simples<SEP>Manguezal"
+  },
+  "Ações de Restauração Passiva<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586971,
+    "update_time": 1779586971,
+    "_id": "Ações de Restauração Passiva<SEP>Manguezal"
+  },
+  "Equipe do Projeto<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586971,
+    "update_time": 1779586971,
+    "_id": "Equipe do Projeto<SEP>Manguezal"
+  },
+  "Auditor Validador<SEP>Manejo-BBS.pdf": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587005,
+    "update_time": 1779587005,
+    "_id": "Auditor Validador<SEP>Manejo-BBS.pdf"
+  },
+  "Ano 1<SEP>Relatório Anual": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587005,
+    "update_time": 1779587005,
+    "_id": "Ano 1<SEP>Relatório Anual"
+  },
+  "Restauração Ativa<SEP>Viveiro": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587005,
+    "update_time": 1779587005,
+    "_id": "Restauração Ativa<SEP>Viveiro"
+  },
+  "Ano 2<SEP>Manejo-BBS.pdf": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587005,
+    "update_time": 1779587005,
+    "_id": "Ano 2<SEP>Manejo-BBS.pdf"
+  },
+  "Controle de Espécies Invasoras<SEP>Restauração Ativa": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587005,
+    "update_time": 1779587005,
+    "_id": "Controle de Espécies Invasoras<SEP>Restauração Ativa"
+  },
+  "Ano 1<SEP>Intervenções Hidrológicas": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587006,
+    "update_time": 1779587006,
+    "_id": "Ano 1<SEP>Intervenções Hidrológicas"
+  },
+  "Ano 2<SEP>Mutirões de Plantio": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587006,
+    "update_time": 1779587006,
+    "_id": "Ano 2<SEP>Mutirões de Plantio"
+  },
+  "Mudas<SEP>Restauração Ativa": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587006,
+    "update_time": 1779587006,
+    "_id": "Mudas<SEP>Restauração Ativa"
+  },
+  "Espécies Invasoras<SEP>Restauração Ativa": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779587006,
+    "update_time": 1779587006,
+    "_id": "Espécies Invasoras<SEP>Restauração Ativa"
+  },
+  "Ano 2<SEP>Relatório de Monitoramento de Carbono #1": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587019,
+    "update_time": 1779587019,
+    "_id": "Ano 2<SEP>Relatório de Monitoramento de Carbono #1"
+  },
+  "Ano 1<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587019,
+    "update_time": 1779587019,
+    "_id": "Ano 1<SEP>PSA"
+  },
+  "Jovem Cientista do Mangue<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587019,
+    "update_time": 1779587019,
+    "_id": "Jovem Cientista do Mangue<SEP>Manguezal"
+  },
+  "Carbon Credits<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587019,
+    "update_time": 1779587019,
+    "_id": "Carbon Credits<SEP>PSA"
+  },
+  "Dia do Manguezal<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587019,
+    "update_time": 1779587019,
+    "_id": "Dia do Manguezal<SEP>Manguezal"
+  },
+  "Ano 2<SEP>Carbon Credits": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587020,
+    "update_time": 1779587020,
+    "_id": "Ano 2<SEP>Carbon Credits"
+  },
+  "Ano 3<SEP>Mangrove": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Ano 3<SEP>Mangrove"
+  },
+  "Plano de Manejo<SEP>UC Parque Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Plano de Manejo<SEP>UC Parque Municipal do Encanto"
+  },
+  "Monitoramento Intensivo<SEP>Mês 25-36": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Monitoramento Intensivo<SEP>Mês 25-36"
+  },
+  "Mangrove<SEP>Mês 25-30": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587032,
+    "update_time": 1779587032,
+    "_id": "Mangrove<SEP>Mês 25-30"
+  },
+  "Atividades de Restauração Ativa<SEP>Mangrove": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587032,
+    "update_time": 1779587032,
+    "_id": "Atividades de Restauração Ativa<SEP>Mangrove"
+  },
+  "Ano 3<SEP>Monitoramento Intensivo": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587032,
+    "update_time": 1779587032,
+    "_id": "Ano 3<SEP>Monitoramento Intensivo"
+  },
+  "Mangrove<SEP>Plantações Pontuais": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587032,
+    "update_time": 1779587032,
+    "_id": "Mangrove<SEP>Plantações Pontuais"
+  },
+  "Ano 3<SEP>Relatório Síntese": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587032,
+    "update_time": 1779587032,
+    "_id": "Ano 3<SEP>Relatório Síntese"
+  },
+  "Manejo-BBS.pdf<SEP>Secretaria de Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587042,
+    "update_time": 1779587042,
+    "_id": "Manejo-BBS.pdf<SEP>Secretaria de Meio Ambiente"
+  },
+  "Banco de Dados<SEP>Mapas Temáticos": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587042,
+    "update_time": 1779587042,
+    "_id": "Banco de Dados<SEP>Mapas Temáticos"
+  },
+  "Acervo Fotográfico Comparativo<SEP>Mapas Temáticos": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587043,
+    "update_time": 1779587043,
+    "_id": "Acervo Fotográfico Comparativo<SEP>Mapas Temáticos"
+  },
+  "Evento de Conclusão e Transição<SEP>Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587043,
+    "update_time": 1779587043,
+    "_id": "Evento de Conclusão e Transição<SEP>Karaguá Vivo"
+  },
+  "Karaguá Vivo<SEP>Mangue": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587043,
+    "update_time": 1779587043,
+    "_id": "Karaguá Vivo<SEP>Mangue"
+  },
+  "Community<SEP>Prefeitura": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Community<SEP>Prefeitura"
+  },
+  "Banco de Dados Ambiental<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Banco de Dados Ambiental<SEP>Manguezal"
+  },
+  "Carbon Credit Resources<SEP>Manejo-BBS.pdf": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Carbon Credit Resources<SEP>Manejo-BBS.pdf"
+  },
+  "Banco de Dados Ambiental<SEP>Monitoring Data Indicators": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Banco de Dados Ambiental<SEP>Monitoring Data Indicators"
+  },
+  "Mapas Temáticos<SEP>Prefeitura": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Mapas Temáticos<SEP>Prefeitura"
+  },
+  "Manguezal<SEP>Restoration and Monitoring Project": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587066,
+    "update_time": 1779587066,
+    "_id": "Manguezal<SEP>Restoration and Monitoring Project"
+  },
+  "Manejo-BBS.pdf<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587091,
+    "update_time": 1779587091,
+    "_id": "Manejo-BBS.pdf<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Ano 3<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587091,
+    "update_time": 1779587091,
+    "_id": "Ano 3<SEP>SocialCarbon"
+  },
+  "Parque Natural Municipal do Encanto<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587091,
+    "update_time": 1779587091,
+    "_id": "Parque Natural Municipal do Encanto<SEP>SocialCarbon"
+  },
+  "Parque Natural Municipal do Encanto<SEP>VCS": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587091,
+    "update_time": 1779587091,
+    "_id": "Parque Natural Municipal do Encanto<SEP>VCS"
+  },
+  "Jovem Cientista<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587092,
+    "update_time": 1779587092,
+    "_id": "Jovem Cientista<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Instrumentos de Gestão e Normativos<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587092,
+    "update_time": 1779587092,
+    "_id": "Instrumentos de Gestão e Normativos<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Benefícios Socioeconômicos Locais<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587092,
+    "update_time": 1779587092,
+    "_id": "Benefícios Socioeconômicos Locais<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Consciência Ambiental e Educação<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587092,
+    "update_time": 1779587092,
+    "_id": "Consciência Ambiental e Educação<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Balneário Barra do Sul<SEP>Mangue": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587104,
+    "update_time": 1779587104,
+    "_id": "Balneário Barra do Sul<SEP>Mangue"
+  },
+  "Créditos de Carbono<SEP>PSA (Pagamento por Serviços Ambientais)": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587104,
+    "update_time": 1779587104,
+    "_id": "Créditos de Carbono<SEP>PSA (Pagamento por Serviços Ambientais)"
+  },
+  "Mangue<SEP>Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587104,
+    "update_time": 1779587104,
+    "_id": "Mangue<SEP>Parque Natural Municipal do Encanto"
+  },
+  "Balneário Barra do Sul<SEP>PSA (Pagamento por Serviços Ambientais)": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587104,
+    "update_time": 1779587104,
+    "_id": "Balneário Barra do Sul<SEP>PSA (Pagamento por Serviços Ambientais)"
+  },
+  "APP de Balneário Barra do Sul<SEP>Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587104,
+    "update_time": 1779587104,
+    "_id": "APP de Balneário Barra do Sul<SEP>Balneário Barra do Sul"
+  },
+  "Fundo Nacional do Meio Ambiente<SEP>Parcerias e Recursos Complementares": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587115,
+    "update_time": 1779587115,
+    "_id": "Fundo Nacional do Meio Ambiente<SEP>Parcerias e Recursos Complementares"
+  },
+  "Conselho Gestor<SEP>Manejo do Manguezal": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587115,
+    "update_time": 1779587115,
+    "_id": "Conselho Gestor<SEP>Manejo do Manguezal"
+  },
+  "Manguezal<SEP>Polícia Ambiental": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587115,
+    "update_time": 1779587115,
+    "_id": "Manguezal<SEP>Polícia Ambiental"
+  },
+  "MONITORA-SC<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587116,
+    "update_time": 1779587116,
+    "_id": "MONITORA-SC<SEP>Manguezal"
+  },
+  "Empresas Locais<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587116,
+    "update_time": 1779587116,
+    "_id": "Empresas Locais<SEP>Manguezal"
+  },
+  "Legislação Ambiental<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587116,
+    "update_time": 1779587116,
+    "_id": "Legislação Ambiental<SEP>Manguezal"
+  },
+  "Balneário Barra do Sul<SEP>Lagoa Maria Fernanda": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587130,
+    "update_time": 1779587130,
+    "_id": "Balneário Barra do Sul<SEP>Lagoa Maria Fernanda"
+  },
+  "APP do Linguado<SEP>Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587130,
+    "update_time": 1779587130,
+    "_id": "APP do Linguado<SEP>Balneário Barra do Sul"
+  },
+  "Balneário Barra do Sul<SEP>Câmara de Vereadores": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587131,
+    "update_time": 1779587131,
+    "_id": "Balneário Barra do Sul<SEP>Câmara de Vereadores"
+  },
+  "APP do Linguado<SEP>SocialCarbon": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587131,
+    "update_time": 1779587131,
+    "_id": "APP do Linguado<SEP>SocialCarbon"
+  },
+  "Balneário Barra do Sul<SEP>Ecosystem Services Financing": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587131,
+    "update_time": 1779587131,
+    "_id": "Balneário Barra do Sul<SEP>Ecosystem Services Financing"
+  },
+  "APP do Linguado<SEP>Rede Municipal de Áreas Conservadas": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587131,
+    "update_time": 1779587131,
+    "_id": "APP do Linguado<SEP>Rede Municipal de Áreas Conservadas"
+  },
+  "APP do Linguado<SEP>Perequê": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587131,
+    "update_time": 1779587131,
+    "_id": "APP do Linguado<SEP>Perequê"
+  },
+  "APP do Linguado<SEP>Rio Vermelho": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587132,
+    "update_time": 1779587132,
+    "_id": "APP do Linguado<SEP>Rio Vermelho"
+  },
+  "Manguezais Urbanos<SEP>Manguezal do Linguado": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587148,
+    "update_time": 1779587148,
+    "_id": "Manguezais Urbanos<SEP>Manguezal do Linguado"
+  },
+  "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Plano de Manejo da RESEX Marinha do Pirajubaé": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587148,
+    "update_time": 1779587148,
+    "_id": "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Plano de Manejo da RESEX Marinha do Pirajubaé"
+  },
+  "Manguezal do Linguado<SEP>Portuguese Best Practice Mangrove Restoration Guidelines": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587148,
+    "update_time": 1779587148,
+    "_id": "Manguezal do Linguado<SEP>Portuguese Best Practice Mangrove Restoration Guidelines"
+  },
+  "Framework – Quantificação de Carbono<SEP>Manguezais Urbanos": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587148,
+    "update_time": 1779587148,
+    "_id": "Framework – Quantificação de Carbono<SEP>Manguezais Urbanos"
+  },
+  "Manguezal do Linguado<SEP>Plano de Manejo da RESEX Marinha do Pirajubaé": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587149,
+    "update_time": 1779587149,
+    "_id": "Manguezal do Linguado<SEP>Plano de Manejo da RESEX Marinha do Pirajubaé"
+  },
+  "Código Florestal<SEP>Legislação Ambiental Brasileira e Normativas Específicas": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587149,
+    "update_time": 1779587149,
+    "_id": "Código Florestal<SEP>Legislação Ambiental Brasileira e Normativas Específicas"
+  },
+  "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Lei nº 9.985/2000": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587150,
+    "update_time": 1779587150,
+    "_id": "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Lei nº 9.985/2000"
+  },
+  "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Resoluções CONAMA": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587150,
+    "update_time": 1779587150,
+    "_id": "Legislação Ambiental Brasileira e Normativas Específicas<SEP>Resoluções CONAMA"
+  },
+  "Baía da Babitonga<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674648,
+    "update_time": 1779674648,
+    "_id": "Baía da Babitonga<SEP>Karaguá"
+  },
+  "Karaguá<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674648,
+    "update_time": 1779674648,
+    "_id": "Karaguá<SEP>Manguezais"
+  },
+  "Carbono Azul<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Carbono Azul<SEP>Karaguá"
+  },
+  "Karaguá<SEP>Tecnologia": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Karaguá<SEP>Tecnologia"
+  },
+  "Carbono Azul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Carbono Azul<SEP>Karaguá Ecotech"
+  },
+  "Educação<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Educação<SEP>Karaguá"
+  },
+  "Carbono Azul<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Carbono Azul<SEP>Manguezais"
+  },
+  "Balneário Barra do Sul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 9,
+    "update_time": 1779674999,
+    "_id": "Balneário Barra do Sul<SEP>Karaguá Ecotech"
+  },
+  "Karaguá<SEP>Retorno Financeiro": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674649,
+    "update_time": 1779674649,
+    "_id": "Karaguá<SEP>Retorno Financeiro"
+  },
+  "Manguezais<SEP>ProManguezal": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 2,
+    "update_time": 1779674694,
+    "_id": "Manguezais<SEP>ProManguezal"
+  },
+  "Karaguá<SEP>Restauração da Natureza": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "Karaguá<SEP>Restauração da Natureza"
+  },
+  "Geração de Dados<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "Geração de Dados<SEP>Karaguá"
+  },
+  "Baía da Babitonga<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 6,
+    "update_time": 1779675000,
+    "_id": "Baía da Babitonga<SEP>Karaguá Ecotech"
+  },
+  "BLUE<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "BLUE<SEP>Karaguá Ecotech"
+  },
+  "Impacto Social<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "Impacto Social<SEP>Karaguá"
+  },
+  "Karaguá Ecotech<SEP>REDD++": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "Karaguá Ecotech<SEP>REDD++"
+  },
+  "Karaguá<SEP>Transformação Territorial": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674650,
+    "update_time": 1779674650,
+    "_id": "Karaguá<SEP>Transformação Territorial"
+  },
+  "Fase 2<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674651,
+    "update_time": 1779674651,
+    "_id": "Fase 2<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>UDESC": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-026564c0148b51f6e4d359aee4d3338c",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 6,
+    "update_time": 1779674946,
+    "_id": "Karaguá Ecotech<SEP>UDESC"
+  },
+  "Joinville<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674651,
+    "update_time": 1779674651,
+    "_id": "Joinville<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Laboratório Comunitário de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 3,
+    "update_time": 1779674751,
+    "_id": "Karaguá Ecotech<SEP>Laboratório Comunitário de Impressão 3D"
+  },
+  "Gabriela<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 3,
+    "update_time": 1779674918,
+    "_id": "Gabriela<SEP>Karaguá Ecotech"
+  },
+  "Carol<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 3,
+    "update_time": 1779674918,
+    "_id": "Carol<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Sabrina": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 3,
+    "update_time": 1779674919,
+    "_id": "Karaguá Ecotech<SEP>Sabrina"
+  },
+  "Créditos de Carbono<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674653,
+    "update_time": 1779674653,
+    "_id": "Créditos de Carbono<SEP>Karaguá Ecotech"
+  },
+  "Fundo Clima<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 2,
+    "update_time": 1779674845,
+    "_id": "Fundo Clima<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Salic": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 2,
+    "update_time": 1779674734,
+    "_id": "Karaguá Ecotech<SEP>Salic"
+  },
+  "Credenciais de Carbono Azul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674653,
+    "update_time": 1779674653,
+    "_id": "Credenciais de Carbono Azul<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Mangroves": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 2,
+    "update_time": 1779674919,
+    "_id": "Karaguá Ecotech<SEP>Mangroves"
+  },
+  "Carbon Credits<SEP>Mangroves": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f"
+    ],
+    "count": 1,
+    "create_time": 1779674670,
+    "update_time": 1779674670,
+    "_id": "Carbon Credits<SEP>Mangroves"
+  },
+  "Karaguá Ecotech<SEP>Santa Catarina": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 2,
+    "update_time": 1779674970,
+    "_id": "Karaguá Ecotech<SEP>Santa Catarina"
+  },
+  "Karaguá Ecotech<SEP>PSA": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 3,
+    "update_time": 1779674970,
+    "_id": "Karaguá Ecotech<SEP>PSA"
+  },
+  "Karaguá Ecotech<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-026564c0148b51f6e4d359aee4d3338c",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 5,
+    "update_time": 1779674947,
+    "_id": "Karaguá Ecotech<SEP>Univille"
+  },
+  "Credits de Carbono Azul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "Credits de Carbono Azul<SEP>Karaguá Ecotech"
+  },
+  "Brazilian Government<SEP>ProManguezal": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "Brazilian Government<SEP>ProManguezal"
+  },
+  "Global Carbon Market<SEP>Lei nº 15.042/2024": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "Global Carbon Market<SEP>Lei nº 15.042/2024"
+  },
+  "BNDES Fundo Clima<SEP>R$ 42,5 Bilhões": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "BNDES Fundo Clima<SEP>R$ 42,5 Bilhões"
+  },
+  "Karaguá Ecotech<SEP>Mercado Voluntário de Carbono": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "Karaguá Ecotech<SEP>Mercado Voluntário de Carbono"
+  },
+  "Credits de Carbono Azul<SEP>Global Carbon Market": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674692,
+    "update_time": 1779674692,
+    "_id": "Credits de Carbono Azul<SEP>Global Carbon Market"
+  },
+  "Credits de Carbono Azul<SEP>Mangue": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674692,
+    "update_time": 1779674692,
+    "_id": "Credits de Carbono Azul<SEP>Mangue"
+  },
+  "Karaguá Ecotech<SEP>Manguezais Brasileiros": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674714,
+    "update_time": 1779674714,
+    "_id": "Karaguá Ecotech<SEP>Manguezais Brasileiros"
+  },
+  "Lei nº 15.133/2010<SEP>Santa Catarina": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674714,
+    "update_time": 1779674714,
+    "_id": "Lei nº 15.133/2010<SEP>Santa Catarina"
+  },
+  "Karaguá Ecotech<SEP>ProManguezal": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 3,
+    "update_time": 1779675001,
+    "_id": "Karaguá Ecotech<SEP>ProManguezal"
+  },
+  "Karaguá Ecotech<SEP>Lei nº 15.042/2024": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 3,
+    "update_time": 1779675001,
+    "_id": "Karaguá Ecotech<SEP>Lei nº 15.042/2024"
+  },
+  "Baía da Babitonga<SEP>CRÉDITOS DE CARBONO": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674715,
+    "update_time": 1779674715,
+    "_id": "Baía da Babitonga<SEP>CRÉDITOS DE CARBONO"
+  },
+  "Créditos de Carbono Azul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674733,
+    "update_time": 1779674733,
+    "_id": "Créditos de Carbono Azul<SEP>Karaguá Ecotech"
+  },
+  "Municipalities<SEP>Programa Estadual de Pagamento por Serviços Ambientais (PEPSA)": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674733,
+    "update_time": 1779674733,
+    "_id": "Municipalities<SEP>Programa Estadual de Pagamento por Serviços Ambientais (PEPSA)"
+  },
+  "Karaguá Ecotech<SEP>Municipalities": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-026564c0148b51f6e4d359aee4d3338c"
+    ],
+    "count": 2,
+    "update_time": 1779674894,
+    "_id": "Karaguá Ecotech<SEP>Municipalities"
+  },
+  "BNDES<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 2,
+    "update_time": 1779674947,
+    "_id": "BNDES<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>VM0033": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 2,
+    "update_time": 1779674974,
+    "_id": "Karaguá Ecotech<SEP>VM0033"
+  },
+  "Karaguá Ecotech<SEP>VM0007": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 2,
+    "update_time": 1779674975,
+    "_id": "Karaguá Ecotech<SEP>VM0007"
+  },
+  "Karaguá Ecotech<SEP>Lei Rouanet": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674734,
+    "update_time": 1779674734,
+    "_id": "Karaguá Ecotech<SEP>Lei Rouanet"
+  },
+  "Karaguá Ecotech<SEP>Modelo de Negócio": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674735,
+    "update_time": 1779674735,
+    "_id": "Karaguá Ecotech<SEP>Modelo de Negócio"
+  },
+  "Karaguá Ecotech<SEP>Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 4,
+    "update_time": 1779675000,
+    "_id": "Karaguá Ecotech<SEP>Karaguá Vivo"
+  },
+  "Balneário Barra do Sul<SEP>Laboratório Comunitário de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674751,
+    "update_time": 1779674751,
+    "_id": "Balneário Barra do Sul<SEP>Laboratório Comunitário de Impressão 3D"
+  },
+  "Ley Rouanet<SEP>Ministério da Cultura": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674751,
+    "update_time": 1779674751,
+    "_id": "Ley Rouanet<SEP>Ministério da Cultura"
+  },
+  "Laboratório Comunitário de Impressão 3D<SEP>Ley Rouanet": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674751,
+    "update_time": 1779674751,
+    "_id": "Laboratório Comunitário de Impressão 3D<SEP>Ley Rouanet"
+  },
+  "Créditos<SEP>Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674751,
+    "update_time": 1779674751,
+    "_id": "Créditos<SEP>Karaguá Vivo"
+  },
+  "Karaguá Vivo<SEP>Plataforma Digital Pública": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674751,
+    "update_time": 1779674751,
+    "_id": "Karaguá Vivo<SEP>Plataforma Digital Pública"
+  },
+  "Carbon Credits<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 2,
+    "update_time": 1779675001,
+    "_id": "Carbon Credits<SEP>Karaguá Ecotech"
+  },
+  "Baía da Babitonga<SEP>Mangrove Area": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674785,
+    "update_time": 1779674785,
+    "_id": "Baía da Babitonga<SEP>Mangrove Area"
+  },
+  "Baía da Babitonga<SEP>Toninha": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674881,
+    "_id": "Baía da Babitonga<SEP>Toninha"
+  },
+  "Karaguá Ecotech<SEP>Mapa de Declaração de Segurança Ambiental": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674786,
+    "update_time": 1779674786,
+    "_id": "Karaguá Ecotech<SEP>Mapa de Declaração de Segurança Ambiental"
+  },
+  "Baía da Babitonga<SEP>Boto-Cinza": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674881,
+    "_id": "Baía da Babitonga<SEP>Boto-Cinza"
+  },
+  "Baía da Babitonga<SEP>Tartaruga-Verde": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674881,
+    "_id": "Baía da Babitonga<SEP>Tartaruga-Verde"
+  },
+  "Baía da Babitonga<SEP>Mero": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674882,
+    "_id": "Baía da Babitonga<SEP>Mero"
+  },
+  "Baía da Babitonga<SEP>Ecosystem Services": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674787,
+    "update_time": 1779674787,
+    "_id": "Baía da Babitonga<SEP>Ecosystem Services"
+  },
+  "Baía da Babitonga<SEP>Grupo Pro Babitonga": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674787,
+    "update_time": 1779674787,
+    "_id": "Baía da Babitonga<SEP>Grupo Pro Babitonga"
+  },
+  "Baía da Babitonga<SEP>Revista CEPSUL / ICMBio": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674787,
+    "update_time": 1779674787,
+    "_id": "Baía da Babitonga<SEP>Revista CEPSUL / ICMBio"
+  },
+  "Baía da Babitonga<SEP>NSC Total": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674788,
+    "update_time": 1779674788,
+    "_id": "Baía da Babitonga<SEP>NSC Total"
+  },
+  "Karaguá Ecotech<SEP>Verra": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674880,
+    "_id": "Karaguá Ecotech<SEP>Verra"
+  },
+  "VM0033<SEP>Verra": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674802,
+    "update_time": 1779674802,
+    "_id": "VM0033<SEP>Verra"
+  },
+  "VM0007<SEP>Verra": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674803,
+    "update_time": 1779674803,
+    "_id": "VM0007<SEP>Verra"
+  },
+  "Creditos de Carbono<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674803,
+    "update_time": 1779674803,
+    "_id": "Creditos de Carbono<SEP>Karaguá Ecotech"
+  },
+  "Creditos de Carbono<SEP>Verra": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674803,
+    "update_time": 1779674803,
+    "_id": "Creditos de Carbono<SEP>Verra"
+  },
+  "Lei nº 15.133/2010<SEP>PEPSA": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674821,
+    "update_time": 1779674821,
+    "_id": "Lei nº 15.133/2010<SEP>PEPSA"
+  },
+  "Luiz Inácio Lula da Silva<SEP>ProManguezal": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674821,
+    "update_time": 1779674821,
+    "_id": "Luiz Inácio Lula da Silva<SEP>ProManguezal"
+  },
+  "Declaração de Segurança Ambiental de Balneário Barra do Sul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674822,
+    "update_time": 1779674822,
+    "_id": "Declaração de Segurança Ambiental de Balneário Barra do Sul<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Programa Estadual de Pagamento por Serviços Ambientais": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674822,
+    "update_time": 1779674822,
+    "_id": "Karaguá Ecotech<SEP>Programa Estadual de Pagamento por Serviços Ambientais"
+  },
+  "Laboratório de Impressão 3D<SEP>Lei Rouanet": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674845,
+    "update_time": 1779674845,
+    "_id": "Laboratório de Impressão 3D<SEP>Lei Rouanet"
+  },
+  "Lei Orçamentária Anual<SEP>R$ 42,5 Bilhões": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674845,
+    "update_time": 1779674845,
+    "_id": "Lei Orçamentária Anual<SEP>R$ 42,5 Bilhões"
+  },
+  "BNDES<SEP>Fundo Clima": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674845,
+    "update_time": 1779674845,
+    "_id": "BNDES<SEP>Fundo Clima"
+  },
+  "Lei Rouanet<SEP>Ministério da Cultura": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674845,
+    "update_time": 1779674845,
+    "_id": "Lei Rouanet<SEP>Ministério da Cultura"
+  },
+  "Fundo Clima<SEP>PNMC": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674846,
+    "update_time": 1779674846,
+    "_id": "Fundo Clima<SEP>PNMC"
+  },
+  "Fundo Clima<SEP>R$ 400 Milhões": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674846,
+    "update_time": 1779674846,
+    "_id": "Fundo Clima<SEP>R$ 400 Milhões"
+  },
+  "Fundo Clima<SEP>R$ 25 Bilhões": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674846,
+    "update_time": 1779674846,
+    "_id": "Fundo Clima<SEP>R$ 25 Bilhões"
+  },
+  "Empréstimos<SEP>Fundo Clima": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674846,
+    "update_time": 1779674846,
+    "_id": "Empréstimos<SEP>Fundo Clima"
+  },
+  "Karaguá Ecotech<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674880,
+    "update_time": 1779674880,
+    "_id": "Karaguá Ecotech<SEP>Manguezais"
+  },
+  "Local Residents and Fishermen<SEP>PSA Mechanism": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674880,
+    "update_time": 1779674880,
+    "_id": "Local Residents and Fishermen<SEP>PSA Mechanism"
+  },
+  "Baía da Babitonga<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674880,
+    "update_time": 1779674880,
+    "_id": "Baía da Babitonga<SEP>Manguezais"
+  },
+  "Balneário Barra do Sul<SEP>UDESC": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674881,
+    "update_time": 1779674881,
+    "_id": "Balneário Barra do Sul<SEP>UDESC"
+  },
+  "Balneário Barra do Sul<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674881,
+    "update_time": 1779674881,
+    "_id": "Balneário Barra do Sul<SEP>Univille"
+  },
+  "Communities of Fishermen<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-026564c0148b51f6e4d359aee4d3338c"
+    ],
+    "count": 1,
+    "create_time": 1779674894,
+    "update_time": 1779674894,
+    "_id": "Communities of Fishermen<SEP>Karaguá Ecotech"
+  },
+  "Credits de Carbono<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674919,
+    "update_time": 1779674919,
+    "_id": "Credits de Carbono<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>PEPSA": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 2,
+    "update_time": 1779674975,
+    "_id": "Karaguá Ecotech<SEP>PEPSA"
+  },
+  "Karaguá Ecotech<SEP>Lei nº 15.133/2010": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 2,
+    "update_time": 1779675000,
+    "_id": "Karaguá Ecotech<SEP>Lei nº 15.133/2010"
+  },
+  "Equipe Técnica<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674921,
+    "update_time": 1779674921,
+    "_id": "Equipe Técnica<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Monitoramento Contínuo": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674921,
+    "update_time": 1779674921,
+    "_id": "Karaguá Ecotech<SEP>Monitoramento Contínuo"
+  },
+  "Karaguá Ecotech<SEP>Restauracão": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674922,
+    "update_time": 1779674922,
+    "_id": "Karaguá Ecotech<SEP>Restauracão"
+  },
+  "Karaguá Ecotech<SEP>Participação Comunitária": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674923,
+    "update_time": 1779674923,
+    "_id": "Karaguá Ecotech<SEP>Participação Comunitária"
+  },
+  "Fase 1 - Piloto em Balneário Barra do Sul<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674947,
+    "update_time": 1779674947,
+    "_id": "Fase 1 - Piloto em Balneário Barra do Sul<SEP>Karaguá Ecotech"
+  },
+  "Fase 2 - Restauração ativa<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674948,
+    "update_time": 1779674948,
+    "_id": "Fase 2 - Restauração ativa<SEP>Karaguá Ecotech"
+  },
+  "Fase 3 - Escala para a Baía da Babitonga<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674948,
+    "update_time": 1779674948,
+    "_id": "Fase 3 - Escala para a Baía da Babitonga<SEP>Karaguá Ecotech"
+  },
+  "Fase 4 - Plataforma digital pública<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674948,
+    "update_time": 1779674948,
+    "_id": "Fase 4 - Plataforma digital pública<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>R$ 1,2 milhão": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674948,
+    "update_time": 1779674948,
+    "_id": "Karaguá Ecotech<SEP>R$ 1,2 milhão"
+  },
+  "Karaguá Ecotech<SEP>Manguezal": {
+    "chunk_ids": [
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 1,
+    "create_time": 1779674967,
+    "update_time": 1779674967,
+    "_id": "Karaguá Ecotech<SEP>Manguezal"
+  },
+  "Babitonga<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 1,
+    "create_time": 1779674970,
+    "update_time": 1779674970,
+    "_id": "Babitonga<SEP>Karaguá Ecotech"
+  },
+  "Blue Carbon<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674999,
+    "update_time": 1779674999,
+    "_id": "Blue Carbon<SEP>Karaguá Ecotech"
+  },
+  "Karaguá Ecotech<SEP>Payment for Environmental Services (PSA)": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674999,
+    "update_time": 1779674999,
+    "_id": "Karaguá Ecotech<SEP>Payment for Environmental Services (PSA)"
+  },
+  "Balneário Barra do Sul<SEP>Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779675000,
+    "update_time": 1779675000,
+    "_id": "Balneário Barra do Sul<SEP>Karaguá Vivo"
+  },
+  "ESG Strategies<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779675001,
+    "update_time": 1779675001,
+    "_id": "ESG Strategies<SEP>Karaguá Ecotech"
+  },
+  "Bolsistas Mensais<SEP>Udesc": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227189,
+    "update_time": 1786227189,
+    "_id": "Bolsistas Mensais<SEP>Udesc"
+  },
+  "Karaguá<SEP>Protótipo de Ecobarreira": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227189,
+    "update_time": 1786227189,
+    "_id": "Karaguá<SEP>Protótipo de Ecobarreira"
+  },
+  "Bolsistas Mensais<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227189,
+    "update_time": 1786227189,
+    "_id": "Bolsistas Mensais<SEP>Univille"
+  },
+  "Laboratório<SEP>Protótipo de Ecobarreira": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227189,
+    "update_time": 1786227189,
+    "_id": "Laboratório<SEP>Protótipo de Ecobarreira"
+  },
+  "Documentário Cultural<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227189,
+    "update_time": 1786227189,
+    "_id": "Documentário Cultural<SEP>Karaguá"
+  },
+  "Balneário Barra do Sul<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-de97259662535ffc45aa87131b91edcc",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 4,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Balneário Barra do Sul<SEP>Laboratório Karaguá Vivo"
+  },
+  "Captação de Recursos<SEP>Karaguá": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Captação de Recursos<SEP>Karaguá"
+  },
+  "Câmera Mirrorless<SEP>Documentário Cultural": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Câmera Mirrorless<SEP>Documentário Cultural"
+  },
+  "Laboratório Karaguá Vivo<SEP>Udesc": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 2,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Laboratório Karaguá Vivo<SEP>Udesc"
+  },
+  "Documentário Cultural<SEP>Microfones": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Documentário Cultural<SEP>Microfones"
+  },
+  "Laboratório Karaguá Vivo<SEP>Univille": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 2,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Laboratório Karaguá Vivo<SEP>Univille"
+  },
+  "CNAE Cultural<SEP>João MEI": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "CNAE Cultural<SEP>João MEI"
+  },
+  "Documentário Cultural<SEP>Iluminação LED Portátil": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Documentário Cultural<SEP>Iluminação LED Portátil"
+  },
+  "Karaguá<SEP>engineering team": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "Karaguá<SEP>engineering team"
+  },
+  "Documentário Cultural<SEP>Tripé e Estabilizador": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227191,
+    "update_time": 1786227191,
+    "_id": "Documentário Cultural<SEP>Tripé e Estabilizador"
+  },
+  "Balneário Barra do Sul<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227191,
+    "update_time": 1786227191,
+    "_id": "Balneário Barra do Sul<SEP>Manguezais"
+  },
+  "Cartões SD e SSD Externo<SEP>Documentário Cultural": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227191,
+    "update_time": 1786227191,
+    "_id": "Cartões SD e SSD Externo<SEP>Documentário Cultural"
+  },
+  "Cultura de Preservação<SEP>Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227191,
+    "update_time": 1786227191,
+    "_id": "Cultura de Preservação<SEP>Karaguá Ecotech"
+  },
+  "Balneário Barra do Sul<SEP>Oficinas de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227191,
+    "update_time": 1786227191,
+    "_id": "Balneário Barra do Sul<SEP>Oficinas de Impressão 3D"
+  },
+  "Canal do Linguado<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227192,
+    "update_time": 1786227192,
+    "_id": "Canal do Linguado<SEP>Laboratório Karaguá Vivo"
+  },
+  "Ecobarreira<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227192,
+    "update_time": 1786227192,
+    "_id": "Ecobarreira<SEP>Laboratório Karaguá Vivo"
+  },
+  "Canal do Linguado<SEP>SALIC": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227192,
+    "update_time": 1786227192,
+    "_id": "Canal do Linguado<SEP>SALIC"
+  },
+  "Tinkercad<SEP>workshops": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Tinkercad<SEP>workshops"
+  },
+  "Impressão 3D<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Impressão 3D<SEP>Laboratório Karaguá Vivo"
+  },
+  "Lucas<SEP>methodology": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Lucas<SEP>methodology"
+  },
+  "Laboratório Karaguá Vivo<SEP>Lei nº 8.313/1991": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Laboratório Karaguá Vivo<SEP>Lei nº 8.313/1991"
+  },
+  "Ecobarrier<SEP>Gabriela": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Ecobarrier<SEP>Gabriela"
+  },
+  "Carol<SEP>Ecobarrier": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Carol<SEP>Ecobarrier"
+  },
+  "Tinkercad<SEP>Workshop 3": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Tinkercad<SEP>Workshop 3"
+  },
+  "Ecobarrier<SEP>Sabrina": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "Ecobarrier<SEP>Sabrina"
+  },
+  "Laboratório Karaguá Vivo<SEP>Prefeitura": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Laboratório Karaguá Vivo<SEP>Prefeitura"
+  },
+  "Ecobarrier<SEP>Workshop 4": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Ecobarrier<SEP>Workshop 4"
+  },
+  "Cultura Digital<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Cultura Digital<SEP>Laboratório Karaguá Vivo"
+  },
+  "Canal do Linguado<SEP>Ecobarrier": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Canal do Linguado<SEP>Ecobarrier"
+  },
+  "Ecobarrier<SEP>Ecobarrier Design Brief": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Ecobarrier<SEP>Ecobarrier Design Brief"
+  },
+  "Laboratório Karaguá Vivo<SEP>Sustentabilidade": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227194,
+    "update_time": 1786227194,
+    "_id": "Laboratório Karaguá Vivo<SEP>Sustentabilidade"
+  },
+  "Ecobarrier<SEP>Workshop 5": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227195,
+    "update_time": 1786227195,
+    "_id": "Ecobarrier<SEP>Workshop 5"
+  },
+  "Ensino Inclusivo<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227195,
+    "update_time": 1786227195,
+    "_id": "Ensino Inclusivo<SEP>Laboratório Karaguá Vivo"
+  },
+  "Ecobarrier<SEP>Workshop 6": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227195,
+    "update_time": 1786227195,
+    "_id": "Ecobarrier<SEP>Workshop 6"
+  },
+  "Laboratório Karaguá Vivo<SEP>Lucas Melo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227195,
+    "update_time": 1786227195,
+    "_id": "Laboratório Karaguá Vivo<SEP>Lucas Melo"
+  },
+  "João Pedro<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227196,
+    "update_time": 1786227196,
+    "_id": "João Pedro<SEP>Laboratório Karaguá Vivo"
+  },
+  "Ecobarreira Prototype<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227196,
+    "update_time": 1786227196,
+    "_id": "Ecobarreira Prototype<SEP>Laboratório Karaguá Vivo"
+  },
+  "Karaguá Ecotech<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227196,
+    "update_time": 1786227196,
+    "_id": "Karaguá Ecotech<SEP>Laboratório Karaguá Vivo"
+  },
+  "Bolsas de Pesquisa<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227196,
+    "update_time": 1786227196,
+    "_id": "Bolsas de Pesquisa<SEP>Laboratório Karaguá Vivo"
+  },
+  "Documentário Cultural<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 2,
+    "create_time": 1786227197,
+    "update_time": 1786227197,
+    "_id": "Documentário Cultural<SEP>Laboratório Karaguá Vivo"
+  },
+  "Captação de Recursos<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227197,
+    "update_time": 1786227197,
+    "_id": "Captação de Recursos<SEP>Laboratório Karaguá Vivo"
+  },
+  "Documentário Cultural (contrapartida)<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227197,
+    "update_time": 1786227197,
+    "_id": "Documentário Cultural (contrapartida)<SEP>Laboratório Karaguá Vivo"
+  },
+  "Infraestrutura do Laboratório<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227198,
+    "update_time": 1786227198,
+    "_id": "Infraestrutura do Laboratório<SEP>Laboratório Karaguá Vivo"
+  },
+  "Formação Cultural e Oficinas<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227198,
+    "update_time": 1786227198,
+    "_id": "Formação Cultural e Oficinas<SEP>Laboratório Karaguá Vivo"
+  },
+  "Desenvolvimento de Protótipo de Ecobarreira<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227198,
+    "update_time": 1786227198,
+    "_id": "Desenvolvimento de Protótipo de Ecobarreira<SEP>Laboratório Karaguá Vivo"
+  },
+  "Espaço Físico<SEP>Salic": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227198,
+    "update_time": 1786227198,
+    "_id": "Espaço Físico<SEP>Salic"
+  },
+  "Administração e Contabilidade<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Administração e Contabilidade<SEP>Laboratório Karaguá Vivo"
+  },
+  "Espaço Físico<SEP>Monitoria Especializada": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Espaço Físico<SEP>Monitoria Especializada"
+  },
+  "João<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "João<SEP>Laboratório Karaguá Vivo"
+  },
+  "Ação Cultural<SEP>Documentário": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Ação Cultural<SEP>Documentário"
+  },
+  "Materiais Didáticos<SEP>Monitoria Especializada": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Materiais Didáticos<SEP>Monitoria Especializada"
+  },
+  "Filamento PETG e PLA<SEP>Oficineiros": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Filamento PETG e PLA<SEP>Oficineiros"
+  },
+  "Laboratório Karaguá Vivo<SEP>Lucas": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227199,
+    "update_time": 1786227199,
+    "_id": "Laboratório Karaguá Vivo<SEP>Lucas"
+  },
+  "Laboratório Karaguá Vivo<SEP>Manguezais": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Laboratório Karaguá Vivo<SEP>Manguezais"
+  },
+  "Bolsistas<SEP>Oficina 6": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Bolsistas<SEP>Oficina 6"
+  },
+  "Gabriela<SEP>Oficina 6": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Gabriela<SEP>Oficina 6"
+  },
+  "Laboratório Karaguá Vivo<SEP>Oficina de Cultura Digital e Impressão 3D": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Laboratório Karaguá Vivo<SEP>Oficina de Cultura Digital e Impressão 3D"
+  },
+  "Carol<SEP>Oficina 6": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Carol<SEP>Oficina 6"
+  },
+  "Ecobarreiras<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Ecobarreiras<SEP>Laboratório Karaguá Vivo"
+  },
+  "Mostra Cultural<SEP>ProtoTipo": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Mostra Cultural<SEP>ProtoTipo"
+  },
+  "Computadores<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Computadores<SEP>Laboratório Karaguá Vivo"
+  },
+  "Ecobarreiras<SEP>Impressoras 3D": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Ecobarreiras<SEP>Impressoras 3D"
+  },
+  "Círculo de Reflexão<SEP>Documentário": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Círculo de Reflexão<SEP>Documentário"
+  },
+  "Oficina 6<SEP>Sabrina": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Oficina 6<SEP>Sabrina"
+  },
+  "Canal do Linguado<SEP>Ecobarreira": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227200,
+    "update_time": 1786227200,
+    "_id": "Canal do Linguado<SEP>Ecobarreira"
+  },
+  "Ação 2 - Documentário Cultural<SEP>Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Ação 2 - Documentário Cultural<SEP>Laboratório Karaguá Vivo"
+  },
+  "Bolsistas<SEP>Gabriela": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Bolsistas<SEP>Gabriela"
+  },
+  "Ação 1 - Mostra Cultural de Resultados<SEP>Ecobarreiras": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Ação 1 - Mostra Cultural de Resultados<SEP>Ecobarreiras"
+  },
+  "Karaguá Ecotech<SEP>Oficina 6": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Karaguá Ecotech<SEP>Oficina 6"
+  },
+  "Canal do Linguado<SEP>Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Canal do Linguado<SEP>Karaguá Vivo"
+  },
+  "Ecobarreira<SEP>PETG": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Ecobarreira<SEP>PETG"
+  },
+  "Bolsistas<SEP>Carol": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Bolsistas<SEP>Carol"
+  },
+  "Canal do Linguado<SEP>Oficina 1": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Canal do Linguado<SEP>Oficina 1"
+  },
+  "Bolsistas<SEP>Sabrina": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Bolsistas<SEP>Sabrina"
+  },
+  "Oficina 1<SEP>Oficina 2": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227201,
+    "update_time": 1786227201,
+    "_id": "Oficina 1<SEP>Oficina 2"
+  },
+  "Canal do Linguado<SEP>Oficina 2": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227202,
+    "update_time": 1786227202,
+    "_id": "Canal do Linguado<SEP>Oficina 2"
+  },
+  "Camiseta Karaguá<SEP>Oficina 1": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227202,
+    "update_time": 1786227202,
+    "_id": "Camiseta Karaguá<SEP>Oficina 1"
+  },
+  "Camiseta Karaguá<SEP>Oficina 2": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227202,
+    "update_time": 1786227202,
+    "_id": "Camiseta Karaguá<SEP>Oficina 2"
+  },
+  "3D Printing Laboratory<SEP>Bolsistas": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227203,
+    "update_time": 1786227203,
+    "_id": "3D Printing Laboratory<SEP>Bolsistas"
+  },
+  "Ecobarreira<SEP>PLA": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227208,
+    "update_time": 1786227208,
+    "_id": "Ecobarreira<SEP>PLA"
+  }
+}

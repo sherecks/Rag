@@ -1,0 +1,391 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Aileron — primary typeface, self-hosted (9 weights).
+   Drop the .woff2 files in public/fonts/ (see public/fonts/README.md).
+   Falls back to the system sans stack until the files are present.
+   ─────────────────────────────────────────────────────────────────────────── */
+@font-face {
+  font-family: "Aileron";
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/aileron-thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Aileron";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/aileron-light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Aileron";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/aileron-regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Aileron";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/aileron-semibold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Aileron";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/aileron-bold.woff2") format("woff2");
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Karaguá Design System v3.0 — raw tokens ("O Estuário")
+   One brand color in three tones. Coral/positive are semantic-only.
+   ─────────────────────────────────────────────────────────────────────────── */
+:root {
+  /* Brand — Green Karaguá */
+  --k-color-green-karagua: #c7d926; /* Bright — dark surfaces, <=3% accent */
+  --k-color-green-karagua-dark: #adbc25; /* Mid — press/active on dark */
+  --k-color-green-karagua-deep: #828e1a; /* Workhorse — primary, links, emphasis */
+
+  /* Neutral surfaces — never #FFFFFF */
+  --k-color-surface-shell: #f7f5f0; /* Default page surface */
+  --k-color-surface-fog: #ebe8e2; /* Hover, alternating rows */
+  --k-color-surface-elevated: #fbf9f4; /* Cards over shell, modal panels */
+  --k-color-surface-carbon: #1a2332; /* Inverted sections, methodology */
+
+  /* Text */
+  --k-color-text-primary: #2c3e50; /* Body copy (>=12:1 on shell) */
+  --k-color-text-secondary: #6b7b8d; /* Captions, labels */
+
+  /* Semantic — signals only, never decorative */
+  --k-color-coral: #e85d4a; /* Error, destructive */
+  --k-color-positive: #27ae60; /* Success, verified credits */
+
+  --k-color-border: #e2dfd6; /* Hairline, <=1px, never colored stripes */
+
+  /* ── shadcn semantic layer (light = primary, shell-first) ── */
+  --background: var(--k-color-surface-shell);
+  --foreground: var(--k-color-text-primary);
+  --card: var(--k-color-surface-elevated);
+  --card-foreground: var(--k-color-text-primary);
+  --popover: var(--k-color-surface-elevated);
+  --popover-foreground: var(--k-color-text-primary);
+  /* Primary = verde do logo (#c7d926). Texto do botão escuro (carbon) p/ ~10:1. */
+  --primary: var(--k-color-green-karagua);
+  --primary-foreground: var(--k-color-surface-carbon);
+  --secondary: var(--k-color-surface-fog);
+  --secondary-foreground: var(--k-color-text-primary);
+  --muted: var(--k-color-surface-fog);
+  --muted-foreground: var(--k-color-text-secondary);
+  --accent: var(--k-color-surface-fog);
+  --accent-foreground: var(--k-color-text-primary);
+  --destructive: var(--k-color-coral);
+  --destructive-foreground: var(--k-color-surface-shell);
+  --positive: var(--k-color-positive);
+  --positive-foreground: var(--k-color-surface-shell);
+  --border: var(--k-color-border);
+  --input: var(--k-color-border);
+  --ring: var(--k-color-green-karagua); /* 3px focus ring, applied @ 40% alpha */
+
+  /* Sharp by default: radius 4–8px. Pill reserved for Switch only. */
+  --radius: 0.25rem; /* 4px */
+
+  --chart-1: var(--k-color-green-karagua-deep);
+  --chart-2: var(--k-color-green-karagua-dark);
+  --chart-3: var(--k-color-green-karagua);
+  --chart-4: var(--k-color-text-secondary);
+  --chart-5: var(--k-color-surface-carbon);
+
+  --sidebar: var(--k-color-surface-elevated);
+  --sidebar-foreground: var(--k-color-text-primary);
+  --sidebar-primary: var(--k-color-green-karagua-deep);
+  --sidebar-primary-foreground: var(--k-color-surface-shell);
+  --sidebar-accent: var(--k-color-surface-fog);
+  --sidebar-accent-foreground: var(--k-color-text-primary);
+  --sidebar-border: var(--k-color-border);
+  --sidebar-ring: var(--k-color-green-karagua);
+}
+
+/* Inverted / carbon surface — methodology callouts, dark sections.
+   Bright Green Karaguá is permitted here (dark surface only). */
+.dark {
+  --background: var(--k-color-surface-carbon);
+  --foreground: var(--k-color-surface-shell);
+  --card: #232f42;
+  --card-foreground: var(--k-color-surface-shell);
+  --popover: #232f42;
+  --popover-foreground: var(--k-color-surface-shell);
+  --primary: var(--k-color-green-karagua);
+  --primary-foreground: var(--k-color-surface-carbon);
+  --secondary: #2b3850;
+  --secondary-foreground: var(--k-color-surface-shell);
+  --muted: #2b3850;
+  --muted-foreground: #9aa7b5;
+  --accent: #2b3850;
+  --accent-foreground: var(--k-color-surface-shell);
+  --destructive: var(--k-color-coral);
+  --destructive-foreground: var(--k-color-surface-shell);
+  --positive: var(--k-color-positive);
+  --positive-foreground: var(--k-color-surface-carbon);
+  --border: color-mix(in srgb, #ffffff 10%, transparent);
+  --input: color-mix(in srgb, #ffffff 15%, transparent);
+  --ring: var(--k-color-green-karagua);
+
+  --sidebar: var(--k-color-surface-carbon);
+  --sidebar-foreground: var(--k-color-surface-shell);
+  --sidebar-primary: var(--k-color-green-karagua);
+  --sidebar-primary-foreground: var(--k-color-surface-carbon);
+  --sidebar-accent: #2b3850;
+  --sidebar-accent-foreground: var(--k-color-surface-shell);
+  --sidebar-border: color-mix(in srgb, #ffffff 10%, transparent);
+  --sidebar-ring: var(--k-color-green-karagua);
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Transição de superfície entre seções (Spec/02 §7 · DT4: tema binário).
+   O wrapper `.theme-surface` é o único dono da cor da página; as seções
+   declaram `data-section-theme="light|dark"` e um IntersectionObserver na
+   linha central do viewport troca `data-theme` no wrapper. A suavização é
+   100% CSS; sob reduced-motion a troca permanece, instantânea.
+   ─────────────────────────────────────────────────────────────────────────── */
+.theme-surface {
+  --surface: var(--k-color-surface-shell);
+  --ink: var(--k-color-text-primary);
+  background-color: var(--surface);
+  color: var(--ink);
+  transition:
+    background-color 0.65s cubic-bezier(0.72, 0, 0.28, 1),
+    color 0.65s cubic-bezier(0.72, 0, 0.28, 1);
+}
+.theme-surface[data-theme="dark"] {
+  --surface: var(--k-color-surface-carbon);
+  --ink: var(--k-color-surface-shell);
+}
+.theme-surface ::selection {
+  background: var(--ink);
+  color: var(--surface);
+}
+/* Logo (SVG via <img>) não herda cor: inverte por filter, no mesmo timing. */
+.site-logo {
+  transition: filter 0.65s cubic-bezier(0.72, 0, 0.28, 1);
+}
+.theme-surface[data-theme="dark"] .site-logo {
+  filter: brightness(0) invert(1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .theme-surface {
+    transition-duration: 0.01s;
+  }
+}
+
+@theme inline {
+  /* Two families only. Hierarchy = weight contrast (Thin <-> Bold). */
+  --font-sans: "Aileron", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-heading: var(--font-sans);
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", "Menlo", "Consolas", monospace;
+
+  /* DS type scale — size paired with its line-height */
+  --text-display: clamp(3.5rem, 7vw, 7.5rem);
+  --text-display--line-height: 0.95;
+  --text-display--letter-spacing: -0.03em;
+  --text-headline: clamp(2.125rem, 3.5vw, 3rem);
+  --text-headline--line-height: 1.1;
+  --text-headline--letter-spacing: -0.02em;
+  --text-title: 1.5rem;
+  --text-title--line-height: 1.15;
+  --text-title--letter-spacing: -0.01em;
+  --text-body: 1.0625rem;
+  --text-body--line-height: 1.55;
+  --text-label: 0.8125rem;
+  --text-label--line-height: 1;
+  --text-label--letter-spacing: 0.12em;
+  --text-data: 0.9375rem;
+  --text-data--line-height: 1.4;
+
+  /* DS raw palette as utilities (bg-k-shell, text-k-deep, ...) */
+  --color-k-bright: var(--k-color-green-karagua);
+  --color-k-mid: var(--k-color-green-karagua-dark);
+  --color-k-deep: var(--k-color-green-karagua-deep);
+  --color-k-shell: var(--k-color-surface-shell);
+  --color-k-fog: var(--k-color-surface-fog);
+  --color-k-elevated: var(--k-color-surface-elevated);
+  --color-k-carbon: var(--k-color-surface-carbon);
+  --color-k-ink: var(--k-color-text-primary);
+  --color-k-ink-soft: var(--k-color-text-secondary);
+  --color-k-coral: var(--k-color-coral);
+  --color-k-positive: var(--k-color-positive);
+
+  /* shadcn semantic mapping */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-positive: var(--positive);
+  --color-positive-foreground: var(--positive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Sharp scale, 4–8px band */
+  --radius-sm: calc(var(--radius) * 0.75); /* 3px */
+  --radius-md: var(--radius); /* 4px */
+  --radius-lg: calc(var(--radius) * 1.5); /* 6px */
+  --radius-xl: calc(var(--radius) * 2); /* 8px */
+
+  /* Easing — no bounce/spring/elastic. State transitions 150–300ms. */
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+    box-sizing: border-box;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    margin: 0;
+    font-size: var(--text-body);
+    line-height: 1.55;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Verifiable data only — coordinates, figures, citations. */
+  code,
+  kbd,
+  samp,
+  .font-data {
+    @apply font-mono;
+  }
+
+  /* Unified focus ring — 3px Green Karaguá @ 40% alpha, >=3:1 contrast. */
+  :focus-visible {
+    outline: 3px solid color-mix(in srgb, var(--ring) 40%, transparent);
+    outline-offset: 2px;
+  }
+
+  /* Body line length cap (65–75ch). Apply to long-form prose blocks. */
+  .measure {
+    max-width: 70ch;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--k-color-green-karagua) 35%, transparent);
+    color: var(--k-color-text-primary);
+  }
+
+  #app {
+    min-height: 100vh;
+  }
+
+  /* Honor reduced motion globally. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* View Transitions — duração/easing alinhados ao DS (ease-out-quart, 280ms). */
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation-duration: 0.28s;
+    animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
+  }
+  ::view-transition-old(brand-mark),
+  ::view-transition-new(brand-mark),
+  ::view-transition-old(menu-toggle),
+  ::view-transition-new(menu-toggle) {
+    animation-duration: 0.32s;
+    animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
+  }
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Post-audit (v2) scope — isolado da home `/`. Corrige os achados do
+   /impeccable audit por escopo: contraste AA (texto secundário + acento olive),
+   touch target >=44px e fonte do DataPoint fora do fluxo quando fechada (mata o
+   overflow horizontal no mobile). Override de tokens raw + aliases --color-*.
+   ─────────────────────────────────────────────────────────────────────────── */
+.v2-surface {
+  --k-color-text-secondary: #52606e; /* 5.9:1 shell / 5.3:1 fog (AA) */
+  --color-k-ink-soft: #52606e;
+  --k-color-green-karagua-deep: #5f6a12; /* 5.4:1 shell / 4.8:1 fog (AA) p/ acento de texto */
+  --color-k-deep: #5f6a12;
+}
+.v2-surface [data-slot="button"][data-size="lg"] {
+  height: 2.75rem; /* 44px touch target */
+}
+.v2-surface [role="tooltip"][aria-hidden="true"] {
+  display: none; /* out of layout when closed: no mobile horizontal overflow */
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Surface primary — seções com fundo `primary` e texto branco (Karaguá Vivo,
+   Impacto, Footer). Remapeia os tokens de texto p/ branco; se o valor de
+   `--primary` mudar, a legibilidade acompanha automaticamente.
+   ─────────────────────────────────────────────────────────────────────────── */
+.surface-primary {
+  background-color: var(--primary);
+  color: #2c3e50; /* k-color-text-primary sobre lima ≈ 7:1 (menos contraste) */
+  --foreground: #2c3e50;
+  --color-foreground: #2c3e50;
+  --k-color-text-primary: #2c3e50;
+  --color-k-ink: #2c3e50;
+  --k-color-text-secondary: #45566a; /* secundário mais suave ≈ 4.8:1 */
+  --color-k-ink-soft: #45566a;
+  --k-color-green-karagua-deep: #2c3e50;
+  --color-k-deep: #2c3e50;
+  --border: color-mix(in srgb, #2c3e50 22%, transparent);
+  --color-border: color-mix(in srgb, #2c3e50 22%, transparent);
+}
+/* O popover de fonte mantém superfície clara + texto escuro mesmo sobre primary. */
+.surface-primary [role="tooltip"] {
+  --k-color-text-primary: #2c3e50;
+  --color-k-ink: #2c3e50;
+  --color-k-ink-soft: #6b7b8d;
+  color: #2c3e50;
+}

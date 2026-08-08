@@ -1,0 +1,3757 @@
+{
+  "Manejo-BBS.pdf": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-d9917c43f99420b5eb43715d72be6a1c",
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7",
+      "chunk-869a1472c792594402b404211a2b10ff",
+      "chunk-098e32821451da00afa0557fb81a887e",
+      "chunk-abf31ac5454def849386bc7f894d8c2f",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027",
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 8,
+    "update_time": 1779587088,
+    "_id": "Manejo-BBS.pdf"
+  },
+  "Balnéario Barra do Sul": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586714,
+    "update_time": 1779586714,
+    "_id": "Balnéario Barra do Sul"
+  },
+  "Karaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-61799e391568f182c2b89677b9e0e003",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-68b29568543512fd2fc8ae0cbd127253",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-026564c0148b51f6e4d359aee4d3338c",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-b5cf377716ee26ede13962ee6334fc04",
+      "chunk-de97259662535ffc45aa87131b91edcc",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 24,
+    "update_time": 1786227134,
+    "_id": "Karaguá Ecotech"
+  },
+  "João Pedro Patrício do Nascimento": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 2,
+    "update_time": 1779587147,
+    "_id": "João Pedro Patrício do Nascimento"
+  },
+  "Lucas Cunha Melo": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 2,
+    "update_time": 1779587147,
+    "_id": "Lucas Cunha Melo"
+  },
+  "Restauração Ecológica": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 2,
+    "update_time": 1779586731,
+    "_id": "Restauração Ecológica"
+  },
+  "Monitoramento Ecológico": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 2,
+    "update_time": 1779586750,
+    "_id": "Monitoramento Ecológico"
+  },
+  "Restauração Passiva": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586714,
+    "update_time": 1779586714,
+    "_id": "Restauração Passiva"
+  },
+  "Restauração Ativa": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 2,
+    "update_time": 1779586987,
+    "_id": "Restauração Ativa"
+  },
+  "Programa de Monitoramento Contínuo": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 2,
+    "update_time": 1779586843,
+    "_id": "Programa de Monitoramento Contínuo"
+  },
+  "PSA Comunitário Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 2,
+    "update_time": 1779586911,
+    "_id": "PSA Comunitário Karaguá Vivo"
+  },
+  "Certificação de Créditos de Carbono": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6"
+    ],
+    "count": 1,
+    "create_time": 1779586714,
+    "update_time": 1779586714,
+    "_id": "Certificação de Créditos de Carbono"
+  },
+  "Ano 1": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-098e32821451da00afa0557fb81a887e",
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 4,
+    "update_time": 1779587018,
+    "_id": "Ano 1"
+  },
+  "Ano 2": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-098e32821451da00afa0557fb81a887e",
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 4,
+    "update_time": 1779587018,
+    "_id": "Ano 2"
+  },
+  "Ano 3": {
+    "chunk_ids": [
+      "chunk-dde17795260f82eaadf69f49749a02f6",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-7e76ea47bcde4565ad9387249d3409a1",
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 4,
+    "update_time": 1779587088,
+    "_id": "Ano 3"
+  },
+  "Área de Preservação Permanente": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586731,
+    "update_time": 1779586731,
+    "_id": "Área de Preservação Permanente"
+  },
+  "Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027",
+      "chunk-9fd9f65c68d07780e52283e939e04463",
+      "chunk-6c526d00fc4d4d4e67b9551e94609942",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-b5cf377716ee26ede13962ee6334fc04",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-de97259662535ffc45aa87131b91edcc",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 19,
+    "update_time": 1786227133,
+    "_id": "Balneário Barra do Sul"
+  },
+  "Canal do Linguado": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-673052a26b4c0ea417f32d83fd85db70",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-fed9bcf559b12248b1273da40f56068e",
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 6,
+    "update_time": 1786227133,
+    "_id": "Canal do Linguado"
+  },
+  "Manguezal": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-a446fc5d632dbd90edf121351c4e5b61",
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d",
+      "chunk-a268042890d5d2e3c3a002cee6c290ca",
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-61799e391568f182c2b89677b9e0e003",
+      "chunk-869a1472c792594402b404211a2b10ff",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-9a84de646898e4c0c15a05010e9f0872",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027",
+      "chunk-10f747942d3960f3f1bcfd90a773f335",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 16,
+    "update_time": 1786227137,
+    "_id": "Manguezal"
+  },
+  "Mata Atlântica": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 2,
+    "update_time": 1779586773,
+    "_id": "Mata Atlântica"
+  },
+  "Diagnóstico Socioambiental": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 2,
+    "update_time": 1779586773,
+    "_id": "Diagnóstico Socioambiental"
+  },
+  "Peixes e Crustáceos": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586731,
+    "update_time": 1779586731,
+    "_id": "Peixes e Crustáceos"
+  },
+  "Serviços Ambientais": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3"
+    ],
+    "count": 1,
+    "create_time": 1779586731,
+    "update_time": 1779586731,
+    "_id": "Serviços Ambientais"
+  },
+  "Carbono Azul": {
+    "chunk_ids": [
+      "chunk-24923938ae8e02790d870d42e3ba2bb3",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-97956bf3a635abdaa08720534d192565",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 7,
+    "update_time": 1779674963,
+    "_id": "Carbono Azul"
+  },
+  "Serviços Ecossistêmicos": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Serviços Ecossistêmicos"
+  },
+  "Comunidade Local": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Comunidade Local"
+  },
+  "Educação Ambiental": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Educação Ambiental"
+  },
+  "UDESC": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61",
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-10f747942d3960f3f1bcfd90a773f335",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-026564c0148b51f6e4d359aee4d3338c",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 10,
+    "update_time": 1779674942,
+    "_id": "UDESC"
+  },
+  "Univille": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61",
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-10f747942d3960f3f1bcfd90a773f335",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-026564c0148b51f6e4d359aee4d3338c",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 13,
+    "update_time": 1786227133,
+    "_id": "Univille"
+  },
+  "Pagamentos por Serviços Ambientais (PSA)": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Pagamentos por Serviços Ambientais (PSA)"
+  },
+  "Integridade Ecológica": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Integridade Ecológica"
+  },
+  "Biodiversidade Local": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586750,
+    "update_time": 1779586750,
+    "_id": "Biodiversidade Local"
+  },
+  "Cobrimento Vegetal": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586751,
+    "update_time": 1779586751,
+    "_id": "Cobrimento Vegetal"
+  },
+  "Recrutamento de Plântulas": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586751,
+    "update_time": 1779586751,
+    "_id": "Recrutamento de Plântulas"
+  },
+  "Preservação da Linha de Costa": {
+    "chunk_ids": [
+      "chunk-a446fc5d632dbd90edf121351c4e5b61"
+    ],
+    "count": 1,
+    "create_time": 1779586751,
+    "update_time": 1779586751,
+    "_id": "Preservação da Linha de Costa"
+  },
+  "Manguezal de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Manguezal de Balneário Barra do Sul"
+  },
+  "Lagoa Maria Fernanda": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70",
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d",
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 3,
+    "update_time": 1779587129,
+    "_id": "Lagoa Maria Fernanda"
+  },
+  "Baía da Babitonga": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70",
+      "chunk-97956bf3a635abdaa08720534d192565",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da",
+      "chunk-b5cf377716ee26ede13962ee6334fc04",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 11,
+    "update_time": 1786227133,
+    "_id": "Baía da Babitonga"
+  },
+  "Rhizophora Mangle": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70",
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 2,
+    "update_time": 1779586828,
+    "_id": "Rhizophora Mangle"
+  },
+  "Avicennia Schaueriana": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Avicennia Schaueriana"
+  },
+  "Laguncularia Racemosa": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Laguncularia Racemosa"
+  },
+  "Ecossistema": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Ecossistema"
+  },
+  "Aterros": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Aterros"
+  },
+  "Impactos Significativos": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Impactos Significativos"
+  },
+  "Usos Inadequados": {
+    "chunk_ids": [
+      "chunk-673052a26b4c0ea417f32d83fd85db70"
+    ],
+    "count": 1,
+    "create_time": 1779586773,
+    "update_time": 1779586773,
+    "_id": "Usos Inadequados"
+  },
+  "Manejo-BBS": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d",
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-9fd9f65c68d07780e52283e939e04463",
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 6,
+    "update_time": 1779587129,
+    "_id": "Manejo-BBS"
+  },
+  "Parque Natural Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d",
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424",
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 3,
+    "update_time": 1779587103,
+    "_id": "Parque Natural Municipal do Encanto"
+  },
+  "Ecological Mangrove Restoration": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "Ecological Mangrove Restoration"
+  },
+  "Recuperação Hidrológica": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "Recuperação Hidrológica"
+  },
+  "APP": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "APP"
+  },
+  "Unidade de Conservação": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "Unidade de Conservação"
+  },
+  "PSA Local": {
+    "chunk_ids": [
+      "chunk-a75c0c8818e42f2e2febd37cd6d9e02d"
+    ],
+    "count": 1,
+    "create_time": 1779586789,
+    "update_time": 1779586789,
+    "_id": "PSA Local"
+  },
+  "Mangrove": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c",
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 2,
+    "update_time": 1779587031,
+    "_id": "Mangrove"
+  },
+  "Community": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 2,
+    "update_time": 1779587053,
+    "_id": "Community"
+  },
+  "Rhizophora": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586803,
+    "update_time": 1779586803,
+    "_id": "Rhizophora"
+  },
+  "Avicennia": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c",
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 2,
+    "update_time": 1779586828,
+    "_id": "Avicennia"
+  },
+  "Laguncularia": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c",
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 2,
+    "update_time": 1779586828,
+    "_id": "Laguncularia"
+  },
+  "Active Restoration": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586803,
+    "update_time": 1779586803,
+    "_id": "Active Restoration"
+  },
+  "Passive Measures": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586803,
+    "update_time": 1779586803,
+    "_id": "Passive Measures"
+  },
+  "Dique de Terra": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Dique de Terra"
+  },
+  "Poça Isolada": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Poça Isolada"
+  },
+  "Resíduos": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Resíduos"
+  },
+  "Placas de Conscientização": {
+    "chunk_ids": [
+      "chunk-d9917c43f99420b5eb43715d72be6a1c"
+    ],
+    "count": 1,
+    "create_time": 1779586804,
+    "update_time": 1779586804,
+    "_id": "Placas de Conscientização"
+  },
+  "Viveiro Comunitário": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Viveiro Comunitário"
+  },
+  "Mudas": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2",
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 2,
+    "update_time": 1779586987,
+    "_id": "Mudas"
+  },
+  "Áreas de Clareiras": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Áreas de Clareiras"
+  },
+  "Técnicas de Plantio": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Técnicas de Plantio"
+  },
+  "Manutenção Pós-Plantio": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Manutenção Pós-Plantio"
+  },
+  "Água Salobra": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Água Salobra"
+  },
+  "Tempo Estável": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Tempo Estável"
+  },
+  "Restauração de Manguezais": {
+    "chunk_ids": [
+      "chunk-3010161e7bb1af9baabbb41df98816b2"
+    ],
+    "count": 1,
+    "create_time": 1779586828,
+    "update_time": 1779586828,
+    "_id": "Restauração de Manguezais"
+  },
+  "Restauracão do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Restauracão do Manguezal"
+  },
+  "Cobertura Vegetal do Manguezal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Cobertura Vegetal do Manguezal"
+  },
+  "Sobrevivência e Crescimento das Mudas Plantadas": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Sobrevivência e Crescimento das Mudas Plantadas"
+  },
+  "Qualidade da Água e Solo": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Qualidade da Água e Solo"
+  },
+  "Indicadores-Chave": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Indicadores-Chave"
+  },
+  "Recuperação da Estrutura Florestal": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Recuperação da Estrutura Florestal"
+  },
+  "Hectares": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Hectares"
+  },
+  "Transparência da Água": {
+    "chunk_ids": [
+      "chunk-c88a74c6375d2bf422c801c83e1ba7d7"
+    ],
+    "count": 1,
+    "create_time": 1779586843,
+    "update_time": 1779586843,
+    "_id": "Transparência da Água"
+  },
+  "Fauna Bentônica": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Fauna Bentônica"
+  },
+  "Caranguejos-Uçá": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Caranguejos-Uçá"
+  },
+  "Siris": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Siris"
+  },
+  "Peixes Juvenis Estuarinos": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Peixes Juvenis Estuarinos"
+  },
+  "Avifauna": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Avifauna"
+  },
+  "Garças": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Garças"
+  },
+  "Maçaricos": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Maçaricos"
+  },
+  "Programa de PSA": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Programa de PSA"
+  },
+  "Guardiões do Mangue": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Guardiões do Mangue"
+  },
+  "Atividades de Educação Ambiental": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Atividades de Educação Ambiental"
+  },
+  "Métodos de Coleta de Dados": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Métodos de Coleta de Dados"
+  },
+  "Parcelas Permanentes de Vegetação": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586861,
+    "update_time": 1779586861,
+    "_id": "Parcelas Permanentes de Vegetação"
+  },
+  "Transectos para Fauna Bentônica": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586862,
+    "update_time": 1779586862,
+    "_id": "Transectos para Fauna Bentônica"
+  },
+  "Estuarine Fish": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586862,
+    "update_time": 1779586862,
+    "_id": "Estuarine Fish"
+  },
+  "Densidade de Tocas": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586862,
+    "update_time": 1779586862,
+    "_id": "Densidade de Tocas"
+  },
+  "Tocas de Caranguejo": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586862,
+    "update_time": 1779586862,
+    "_id": "Tocas de Caranguejo"
+  },
+  "Cobertura do Dossel": {
+    "chunk_ids": [
+      "chunk-998ba000305638e76b7d12d43b45dbcc"
+    ],
+    "count": 1,
+    "create_time": 1779586862,
+    "update_time": 1779586862,
+    "_id": "Cobertura do Dossel"
+  },
+  "Coletas Físico-Químicas": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Coletas Físico-Químicas"
+  },
+  "Refratômetro": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Refratômetro"
+  },
+  "Sonda": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Sonda"
+  },
+  "Kit de Campo": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Kit de Campo"
+  },
+  "PSA": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca",
+      "chunk-0ce2d9c74993ce76ec57b683547157b7",
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-9a84de646898e4c0c15a05010e9f0872",
+      "chunk-abf31ac5454def849386bc7f894d8c2f",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 8,
+    "update_time": 1779674963,
+    "_id": "PSA"
+  },
+  "Google Sheets": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Google Sheets"
+  },
+  "Sistema de Informação Geográfica (SIG)": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Sistema de Informação Geográfica (SIG)"
+  },
+  "Leaflet.js": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Leaflet.js"
+  },
+  "Indicadores Críticos": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Indicadores Críticos"
+  },
+  "Gestão Adaptativa": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Gestão Adaptativa"
+  },
+  "Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Meio Ambiente"
+  },
+  "Delineamento": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Delineamento"
+  },
+  "Pontos de Monitoramento": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca"
+    ],
+    "count": 1,
+    "create_time": 1779586876,
+    "update_time": 1779586876,
+    "_id": "Pontos de Monitoramento"
+  },
+  "Secretaria de Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-a268042890d5d2e3c3a002cee6c290ca",
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 2,
+    "update_time": 1779587042,
+    "_id": "Secretaria de Meio Ambiente"
+  },
+  "Espécies Invasoras": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 2,
+    "update_time": 1779586987,
+    "_id": "Espécies Invasoras"
+  },
+  "PSA (Pagamento por Serviços Ambientais)": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 2,
+    "update_time": 1779587103,
+    "_id": "PSA (Pagamento por Serviços Ambientais)"
+  },
+  "Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d",
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-abf31ac5454def849386bc7f894d8c2f",
+      "chunk-9fd9f65c68d07780e52283e939e04463",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6",
+      "chunk-b5cf377716ee26ede13962ee6334fc04",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 10,
+    "update_time": 1786227137,
+    "_id": "Karaguá Vivo"
+  },
+  "Autoridades Competentes": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586894,
+    "update_time": 1779586894,
+    "_id": "Autoridades Competentes"
+  },
+  "Relatório Anual de Monitoramento": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586894,
+    "update_time": 1779586894,
+    "_id": "Relatório Anual de Monitoramento"
+  },
+  "Monitoramento": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586894,
+    "update_time": 1779586894,
+    "_id": "Monitoramento"
+  },
+  "Remoção de Espécies Invasoras": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Remoção de Espécies Invasoras"
+  },
+  "Desmatamento Ilegal": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Desmatamento Ilegal"
+  },
+  "Vigilância Comunitária": {
+    "chunk_ids": [
+      "chunk-11946f35b487ac28aee0eba72daee33d"
+    ],
+    "count": 1,
+    "create_time": 1779586895,
+    "update_time": 1779586895,
+    "_id": "Vigilância Comunitária"
+  },
+  "Guardiões do Manguezal": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586911,
+    "update_time": 1779586911,
+    "_id": "Guardiões do Manguezal"
+  },
+  "Duração de Longo Prazo": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586911,
+    "update_time": 1779586911,
+    "_id": "Duração de Longo Prazo"
+  },
+  "Famílias Locais": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586911,
+    "update_time": 1779586911,
+    "_id": "Famílias Locais"
+  },
+  "Pescadores Artesanais": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586911,
+    "update_time": 1779586911,
+    "_id": "Pescadores Artesanais"
+  },
+  "Maricultores": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586911,
+    "update_time": 1779586911,
+    "_id": "Maricultores"
+  },
+  "Monitor da Prefeitura": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586912,
+    "update_time": 1779586912,
+    "_id": "Monitor da Prefeitura"
+  },
+  "Mutirão de Limpeza": {
+    "chunk_ids": [
+      "chunk-61799e391568f182c2b89677b9e0e003"
+    ],
+    "count": 1,
+    "create_time": 1779586912,
+    "update_time": 1779586912,
+    "_id": "Mutirão de Limpeza"
+  },
+  "PSA Municipal": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586926,
+    "update_time": 1779586926,
+    "_id": "PSA Municipal"
+  },
+  "UC": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586926,
+    "update_time": 1779586926,
+    "_id": "UC"
+  },
+  "SocialCarbon": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff",
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424",
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 3,
+    "update_time": 1779587129,
+    "_id": "SocialCarbon"
+  },
+  "SCM003": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586926,
+    "update_time": 1779586926,
+    "_id": "SCM003"
+  },
+  "PSA Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586926,
+    "update_time": 1779586926,
+    "_id": "PSA Karaguá Vivo"
+  },
+  "VCS": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff",
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 2,
+    "update_time": 1779587088,
+    "_id": "VCS"
+  },
+  "Documento de Concepção do Projeto": {
+    "chunk_ids": [
+      "chunk-869a1472c792594402b404211a2b10ff"
+    ],
+    "count": 1,
+    "create_time": 1779586926,
+    "update_time": 1779586926,
+    "_id": "Documento de Concepção do Projeto"
+  },
+  "PSA (Guardiões do Manguezal)": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586940,
+    "update_time": 1779586940,
+    "_id": "PSA (Guardiões do Manguezal)"
+  },
+  "Créditos de Carbono": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4",
+      "chunk-9fd9f65c68d07780e52283e939e04463",
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 4,
+    "update_time": 1779674709,
+    "_id": "Créditos de Carbono"
+  },
+  "Relatório de Monitoramento 1": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586940,
+    "update_time": 1779586940,
+    "_id": "Relatório de Monitoramento 1"
+  },
+  "Relatório de Verificação": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586940,
+    "update_time": 1779586940,
+    "_id": "Relatório de Verificação"
+  },
+  "Municipal Government": {
+    "chunk_ids": [
+      "chunk-0f1b45c14b9998f471d578523b317bb4"
+    ],
+    "count": 1,
+    "create_time": 1779586943,
+    "update_time": 1779586943,
+    "_id": "Municipal Government"
+  },
+  "NGOs": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586954,
+    "update_time": 1779586954,
+    "_id": "NGOs"
+  },
+  "Atividades de Restauração": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586954,
+    "update_time": 1779586954,
+    "_id": "Atividades de Restauração"
+  },
+  "Instrumentos Legais": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586954,
+    "update_time": 1779586954,
+    "_id": "Instrumentos Legais"
+  },
+  "Projeto de Restauração": {
+    "chunk_ids": [
+      "chunk-0ce2d9c74993ce76ec57b683547157b7"
+    ],
+    "count": 1,
+    "create_time": 1779586954,
+    "update_time": 1779586954,
+    "_id": "Projeto de Restauração"
+  },
+  "Mês 3–6": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Mês 3–6"
+  },
+  "Mês 4–6": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Mês 4–6"
+  },
+  "Mês 5–8": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Mês 5–8"
+  },
+  "Mês 6": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Mês 6"
+  },
+  "Mês 6–12": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Mês 6–12"
+  },
+  "Intervenções Hidrológicas": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47",
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 2,
+    "update_time": 1779586987,
+    "_id": "Intervenções Hidrológicas"
+  },
+  "Canteiro Simples": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Canteiro Simples"
+  },
+  "Ações de Restauração Passiva": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Ações de Restauração Passiva"
+  },
+  "Equipe do Projeto": {
+    "chunk_ids": [
+      "chunk-8f0cd8bd143fd3559ba56c62695e2b47"
+    ],
+    "count": 1,
+    "create_time": 1779586969,
+    "update_time": 1779586969,
+    "_id": "Equipe do Projeto"
+  },
+  "Auditor Validador": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779586987,
+    "update_time": 1779586987,
+    "_id": "Auditor Validador"
+  },
+  "Relatório Anual": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779586987,
+    "update_time": 1779586987,
+    "_id": "Relatório Anual"
+  },
+  "Viveiro": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779586987,
+    "update_time": 1779586987,
+    "_id": "Viveiro"
+  },
+  "Controle de Espécies Invasoras": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779586987,
+    "update_time": 1779586987,
+    "_id": "Controle de Espécies Invasoras"
+  },
+  "Mutirões de Plantio": {
+    "chunk_ids": [
+      "chunk-098e32821451da00afa0557fb81a887e"
+    ],
+    "count": 1,
+    "create_time": 1779586987,
+    "update_time": 1779586987,
+    "_id": "Mutirões de Plantio"
+  },
+  "Jovem Cientista do Mangue": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587018,
+    "update_time": 1779587018,
+    "_id": "Jovem Cientista do Mangue"
+  },
+  "Dia do Manguezal": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587018,
+    "update_time": 1779587018,
+    "_id": "Dia do Manguezal"
+  },
+  "Relatório de Monitoramento de Carbono #1": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872"
+    ],
+    "count": 1,
+    "create_time": 1779587018,
+    "update_time": 1779587018,
+    "_id": "Relatório de Monitoramento de Carbono #1"
+  },
+  "Carbon Credits": {
+    "chunk_ids": [
+      "chunk-9a84de646898e4c0c15a05010e9f0872",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-b5cf377716ee26ede13962ee6334fc04",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 6,
+    "update_time": 1786227134,
+    "_id": "Carbon Credits"
+  },
+  "UC Parque Municipal do Encanto": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "UC Parque Municipal do Encanto"
+  },
+  "Monitoramento Intensivo": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Monitoramento Intensivo"
+  },
+  "Relatório Síntese": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Relatório Síntese"
+  },
+  "Mês 25-30": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Mês 25-30"
+  },
+  "Mês 25-36": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Mês 25-36"
+  },
+  "Atividades de Restauração Ativa": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Atividades de Restauração Ativa"
+  },
+  "Plantações Pontuais": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Plantações Pontuais"
+  },
+  "Plano de Manejo": {
+    "chunk_ids": [
+      "chunk-7e76ea47bcde4565ad9387249d3409a1"
+    ],
+    "count": 1,
+    "create_time": 1779587031,
+    "update_time": 1779587031,
+    "_id": "Plano de Manejo"
+  },
+  "Mangue": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f",
+      "chunk-9fd9f65c68d07780e52283e939e04463",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 3,
+    "update_time": 1779674688,
+    "_id": "Mangue"
+  },
+  "Evento de Conclusão e Transição": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587042,
+    "update_time": 1779587042,
+    "_id": "Evento de Conclusão e Transição"
+  },
+  "Banco de Dados": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587042,
+    "update_time": 1779587042,
+    "_id": "Banco de Dados"
+  },
+  "Mapas Temáticos": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f",
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 2,
+    "update_time": 1779587053,
+    "_id": "Mapas Temáticos"
+  },
+  "Acervo Fotográfico Comparativo": {
+    "chunk_ids": [
+      "chunk-abf31ac5454def849386bc7f894d8c2f"
+    ],
+    "count": 1,
+    "create_time": 1779587042,
+    "update_time": 1779587042,
+    "_id": "Acervo Fotográfico Comparativo"
+  },
+  "Prefeitura": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027",
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 2,
+    "update_time": 1786227134,
+    "_id": "Prefeitura"
+  },
+  "Carbon Credit Resources": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587053,
+    "update_time": 1779587053,
+    "_id": "Carbon Credit Resources"
+  },
+  "Banco de Dados Ambiental": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587053,
+    "update_time": 1779587053,
+    "_id": "Banco de Dados Ambiental"
+  },
+  "Restoration and Monitoring Project": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587054,
+    "update_time": 1779587054,
+    "_id": "Restoration and Monitoring Project"
+  },
+  "Monitoring Data Indicators": {
+    "chunk_ids": [
+      "chunk-a890c76cd919e0baeeb5a5a0e3d9f027"
+    ],
+    "count": 1,
+    "create_time": 1779587054,
+    "update_time": 1779587054,
+    "_id": "Monitoring Data Indicators"
+  },
+  "PSA municipal de manguezal": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587088,
+    "update_time": 1779587088,
+    "_id": "PSA municipal de manguezal"
+  },
+  "Jovem Cientista": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587088,
+    "update_time": 1779587088,
+    "_id": "Jovem Cientista"
+  },
+  "Instrumentos de Gestão e Normativos": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587088,
+    "update_time": 1779587088,
+    "_id": "Instrumentos de Gestão e Normativos"
+  },
+  "Benefícios Socioeconômicos Locais": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587088,
+    "update_time": 1779587088,
+    "_id": "Benefícios Socioeconômicos Locais"
+  },
+  "Consciência Ambiental e Educação": {
+    "chunk_ids": [
+      "chunk-bf1bd2a10cc71f7b00630d7ec3236424"
+    ],
+    "count": 1,
+    "create_time": 1779587088,
+    "update_time": 1779587088,
+    "_id": "Consciência Ambiental e Educação"
+  },
+  "APP de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-9fd9f65c68d07780e52283e939e04463"
+    ],
+    "count": 1,
+    "create_time": 1779587103,
+    "update_time": 1779587103,
+    "_id": "APP de Balneário Barra do Sul"
+  },
+  "Fundo Nacional do Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "Fundo Nacional do Meio Ambiente"
+  },
+  "Polícia Ambiental": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "Polícia Ambiental"
+  },
+  "MONITORA-SC": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "MONITORA-SC"
+  },
+  "Conselho Gestor": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "Conselho Gestor"
+  },
+  "Empresas Locais": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "Empresas Locais"
+  },
+  "Legislação Ambiental": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587114,
+    "update_time": 1779587114,
+    "_id": "Legislação Ambiental"
+  },
+  "Parcerias e Recursos Complementares": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587115,
+    "update_time": 1779587115,
+    "_id": "Parcerias e Recursos Complementares"
+  },
+  "Manejo do Manguezal": {
+    "chunk_ids": [
+      "chunk-10f747942d3960f3f1bcfd90a773f335"
+    ],
+    "count": 1,
+    "create_time": 1779587115,
+    "update_time": 1779587115,
+    "_id": "Manejo do Manguezal"
+  },
+  "APP do Linguado": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "APP do Linguado"
+  },
+  "Câmara de Vereadores": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "Câmara de Vereadores"
+  },
+  "Ecosystem Services Financing": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "Ecosystem Services Financing"
+  },
+  "Perequê": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "Perequê"
+  },
+  "Rio Vermelho": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "Rio Vermelho"
+  },
+  "Rede Municipal de Áreas Conservadas": {
+    "chunk_ids": [
+      "chunk-6c526d00fc4d4d4e67b9551e94609942"
+    ],
+    "count": 1,
+    "create_time": 1779587129,
+    "update_time": 1779587129,
+    "_id": "Rede Municipal de Áreas Conservadas"
+  },
+  "Manguezais Urbanos": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Manguezais Urbanos"
+  },
+  "Manguezal do Linguado": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Manguezal do Linguado"
+  },
+  "Portuguese Best Practice Mangrove Restoration Guidelines": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Portuguese Best Practice Mangrove Restoration Guidelines"
+  },
+  "Plano de Manejo da RESEX Marinha do Pirajubaé": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Plano de Manejo da RESEX Marinha do Pirajubaé"
+  },
+  "Plano de Manejo da APA de Anhatomirim – Encarte 3": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Plano de Manejo da APA de Anhatomirim – Encarte 3"
+  },
+  "DSA – Diagnóstico Socioambiental de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "DSA – Diagnóstico Socioambiental de Balneário Barra do Sul"
+  },
+  "Framework – Quantificação de Carbono": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Framework – Quantificação de Carbono"
+  },
+  "Legislação Ambiental Brasileira e Normativas Específicas": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Legislação Ambiental Brasileira e Normativas Específicas"
+  },
+  "Código Florestal": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Código Florestal"
+  },
+  "Lei nº 9.985/2000": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Lei nº 9.985/2000"
+  },
+  "Resoluções CONAMA": {
+    "chunk_ids": [
+      "chunk-7511a82b0784c43f51aa833d59cc7ad4"
+    ],
+    "count": 1,
+    "create_time": 1779587147,
+    "update_time": 1779587147,
+    "_id": "Resoluções CONAMA"
+  },
+  "Manguezais": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565",
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af",
+      "chunk-de97259662535ffc45aa87131b91edcc",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 7,
+    "update_time": 1786227134,
+    "_id": "Manguezais"
+  },
+  "Tecnologia": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Tecnologia"
+  },
+  "Educação": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Educação"
+  },
+  "Desenvolvimento Comunitário": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Desenvolvimento Comunitário"
+  },
+  "Karaguá": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565",
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 3,
+    "update_time": 1786227133,
+    "_id": "Karaguá"
+  },
+  "Retorno Financeiro": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Retorno Financeiro"
+  },
+  "Restauração da Natureza": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Restauração da Natureza"
+  },
+  "Geração de Dados": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Geração de Dados"
+  },
+  "Impacto Social": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Impacto Social"
+  },
+  "Transformação Territorial": {
+    "chunk_ids": [
+      "chunk-97956bf3a635abdaa08720534d192565"
+    ],
+    "count": 1,
+    "create_time": 1779674646,
+    "update_time": 1779674646,
+    "_id": "Transformação Territorial"
+  },
+  "ProManguezal": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 5,
+    "update_time": 1779674994,
+    "_id": "ProManguezal"
+  },
+  "Política Estadual de Serviços Ambientais de Santa Catarina": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "Política Estadual de Serviços Ambientais de Santa Catarina"
+  },
+  "Programa Estadual de Pagamento por Serviços Ambientais (PEPSA)": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1",
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 2,
+    "update_time": 1779674732,
+    "_id": "Programa Estadual de Pagamento por Serviços Ambientais (PEPSA)"
+  },
+  "BLUE": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "BLUE"
+  },
+  "REDD++": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "REDD++"
+  },
+  "50% of Baía da Babitonga": {
+    "chunk_ids": [
+      "chunk-ab5216ced144c274bc01b9f76450bfe1"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "50% of Baía da Babitonga"
+  },
+  "Fase 2": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "Fase 2"
+  },
+  "Joinville": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "Joinville"
+  },
+  "Laboratório Comunitário de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 3,
+    "update_time": 1779674750,
+    "_id": "Laboratório Comunitário de Impressão 3D"
+  },
+  "Fundo Clima": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 3,
+    "update_time": 1779674838,
+    "_id": "Fundo Clima"
+  },
+  "Salic": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-68b29568543512fd2fc8ae0cbd127253",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 5,
+    "update_time": 1786227136,
+    "_id": "Salic"
+  },
+  "Gabriela": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-93daf61580b578c58a15dff9e12f4585",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 6,
+    "update_time": 1786227134,
+    "_id": "Gabriela"
+  },
+  "Carol": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-93daf61580b578c58a15dff9e12f4585",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 6,
+    "update_time": 1786227134,
+    "_id": "Carol"
+  },
+  "Sabrina": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-93daf61580b578c58a15dff9e12f4585",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 6,
+    "update_time": 1786227135,
+    "_id": "Sabrina"
+  },
+  "Credenciais de Carbono Azul": {
+    "chunk_ids": [
+      "chunk-dac9ac0e037b36bcaa7b84fc97e0480a"
+    ],
+    "count": 1,
+    "create_time": 1779674647,
+    "update_time": 1779674647,
+    "_id": "Credenciais de Carbono Azul"
+  },
+  "Santa Catarina": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 3,
+    "update_time": 1779674963,
+    "_id": "Santa Catarina"
+  },
+  "Mangroves": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 2,
+    "update_time": 1779674915,
+    "_id": "Mangroves"
+  },
+  "BNDES Fundo Clima": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 2,
+    "update_time": 1779674687,
+    "_id": "BNDES Fundo Clima"
+  },
+  "Lei nº 15.133/2010": {
+    "chunk_ids": [
+      "chunk-96cfbacbd794cb84c14c05802c670b7f",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 5,
+    "update_time": 1779674994,
+    "_id": "Lei nº 15.133/2010"
+  },
+  "Global Carbon Market": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674687,
+    "update_time": 1779674687,
+    "_id": "Global Carbon Market"
+  },
+  "Credits de Carbono Azul": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674687,
+    "update_time": 1779674687,
+    "_id": "Credits de Carbono Azul"
+  },
+  "Lei nº 15.042/2024": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 4,
+    "update_time": 1779674994,
+    "_id": "Lei nº 15.042/2024"
+  },
+  "1,04 Bilhão de Dólares": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674687,
+    "update_time": 1779674687,
+    "_id": "1,04 Bilhão de Dólares"
+  },
+  "R$ 42,5 Bilhões": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036",
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 2,
+    "update_time": 1779674838,
+    "_id": "R$ 42,5 Bilhões"
+  },
+  "Mercado Voluntário de Carbono": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674688,
+    "update_time": 1779674688,
+    "_id": "Mercado Voluntário de Carbono"
+  },
+  "Brazilian Government": {
+    "chunk_ids": [
+      "chunk-f8391c4fcd2580effc0f006b72bb8036"
+    ],
+    "count": 1,
+    "create_time": 1779674691,
+    "update_time": 1779674691,
+    "_id": "Brazilian Government"
+  },
+  "Manguezais Brasileiros": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674709,
+    "update_time": 1779674709,
+    "_id": "Manguezais Brasileiros"
+  },
+  "VM0033": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78",
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 4,
+    "update_time": 1779674963,
+    "_id": "VM0033"
+  },
+  "VM0007/REDD+": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674709,
+    "update_time": 1779674709,
+    "_id": "VM0007/REDD+"
+  },
+  "CRÉDITOS DE CARBONO": {
+    "chunk_ids": [
+      "chunk-41caa912aa9f8b079fabe8c7285d8d78"
+    ],
+    "count": 1,
+    "create_time": 1779674715,
+    "update_time": 1779674715,
+    "_id": "CRÉDITOS DE CARBONO"
+  },
+  "Créditos de Carbono Azul": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-68b29568543512fd2fc8ae0cbd127253",
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 3,
+    "update_time": 1786227134,
+    "_id": "Créditos de Carbono Azul"
+  },
+  "VM0007": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 3,
+    "update_time": 1779674964,
+    "_id": "VM0007"
+  },
+  "BNDES": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-68b29568543512fd2fc8ae0cbd127253",
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 3,
+    "update_time": 1779674942,
+    "_id": "BNDES"
+  },
+  "Lei Estadual nº 15.133/2010": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674732,
+    "update_time": 1779674732,
+    "_id": "Lei Estadual nº 15.133/2010"
+  },
+  "Lei Rouanet": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 2,
+    "update_time": 1779674838,
+    "_id": "Lei Rouanet"
+  },
+  "Municipalities": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4",
+      "chunk-026564c0148b51f6e4d359aee4d3338c"
+    ],
+    "count": 2,
+    "update_time": 1779674890,
+    "_id": "Municipalities"
+  },
+  "Municípios": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674732,
+    "update_time": 1779674732,
+    "_id": "Municípios"
+  },
+  "Modelo de Negócio": {
+    "chunk_ids": [
+      "chunk-35b161aec878c689605e9dc4ad34beb4"
+    ],
+    "count": 1,
+    "create_time": 1779674732,
+    "update_time": 1779674732,
+    "_id": "Modelo de Negócio"
+  },
+  "Ley Rouanet": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674750,
+    "update_time": 1779674750,
+    "_id": "Ley Rouanet"
+  },
+  "Ministério da Cultura": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e",
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 2,
+    "update_time": 1779674838,
+    "_id": "Ministério da Cultura"
+  },
+  "Universidade do Estado de Santa Catarina (UDESC)": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674750,
+    "update_time": 1779674750,
+    "_id": "Universidade do Estado de Santa Catarina (UDESC)"
+  },
+  "Créditos": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674750,
+    "update_time": 1779674750,
+    "_id": "Créditos"
+  },
+  "Plataforma Digital Pública": {
+    "chunk_ids": [
+      "chunk-644f99a306340252731a22af065c2b0e"
+    ],
+    "count": 1,
+    "create_time": 1779674750,
+    "update_time": 1779674750,
+    "_id": "Plataforma Digital Pública"
+  },
+  "Mangrove Area": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674784,
+    "update_time": 1779674784,
+    "_id": "Mangrove Area"
+  },
+  "Toninha": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674879,
+    "_id": "Toninha"
+  },
+  "Boto-Cinza": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674879,
+    "_id": "Boto-Cinza"
+  },
+  "Tartaruga-Verde": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674880,
+    "_id": "Tartaruga-Verde"
+  },
+  "Mero": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674880,
+    "_id": "Mero"
+  },
+  "Ecosystem Services": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674784,
+    "update_time": 1779674784,
+    "_id": "Ecosystem Services"
+  },
+  "Mapa de Declaração de Segurança Ambiental": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674784,
+    "update_time": 1779674784,
+    "_id": "Mapa de Declaração de Segurança Ambiental"
+  },
+  "Grupo Pro Babitonga": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674785,
+    "update_time": 1779674785,
+    "_id": "Grupo Pro Babitonga"
+  },
+  "Revista CEPSUL / ICMBio": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674785,
+    "update_time": 1779674785,
+    "_id": "Revista CEPSUL / ICMBio"
+  },
+  "NSC Total": {
+    "chunk_ids": [
+      "chunk-cfd11d7c2c4bd3494e41a898407867fb"
+    ],
+    "count": 1,
+    "create_time": 1779674785,
+    "update_time": 1779674785,
+    "_id": "NSC Total"
+  },
+  "Verra": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 2,
+    "update_time": 1779674879,
+    "_id": "Verra"
+  },
+  "REDD+": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 2,
+    "update_time": 1779674963,
+    "_id": "REDD+"
+  },
+  "IoTs": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674802,
+    "update_time": 1779674802,
+    "_id": "IoTs"
+  },
+  "Acordo de Paris": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674802,
+    "update_time": 1779674802,
+    "_id": "Acordo de Paris"
+  },
+  "Creditos de Carbono": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674802,
+    "update_time": 1779674802,
+    "_id": "Creditos de Carbono"
+  },
+  "Tecnologia de Monitoramento": {
+    "chunk_ids": [
+      "chunk-a80e4c81535ba4a7810a341f7875bc35"
+    ],
+    "count": 1,
+    "create_time": 1779674802,
+    "update_time": 1779674802,
+    "_id": "Tecnologia de Monitoramento"
+  },
+  "PEPSA": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08",
+      "chunk-89141165cd3f083fc23989c3f15765c4",
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 3,
+    "update_time": 1779674964,
+    "_id": "PEPSA"
+  },
+  "Decreto nº 12.045/2024": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "Decreto nº 12.045/2024"
+  },
+  "Luiz Inácio Lula da Silva": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "Luiz Inácio Lula da Silva"
+  },
+  "SBCE": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "SBCE"
+  },
+  "Declaração de Segurança Ambiental de Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "Declaração de Segurança Ambiental de Balneário Barra do Sul"
+  },
+  "Programa Estadual de Pagamento por Serviços Ambientais": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "Programa Estadual de Pagamento por Serviços Ambientais"
+  },
+  "Dia Mundial do Meio Ambiente": {
+    "chunk_ids": [
+      "chunk-801a0e33323bfe79b6cbfaaca8800a08"
+    ],
+    "count": 1,
+    "create_time": 1779674820,
+    "update_time": 1779674820,
+    "_id": "Dia Mundial do Meio Ambiente"
+  },
+  "PNMC": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "PNMC"
+  },
+  "Paar": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "Paar"
+  },
+  "Laboratório de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "Laboratório de Impressão 3D"
+  },
+  "R$ 400 Milhões": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "R$ 400 Milhões"
+  },
+  "R$ 25 Bilhões": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "R$ 25 Bilhões"
+  },
+  "Empréstimos": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674838,
+    "update_time": 1779674838,
+    "_id": "Empréstimos"
+  },
+  "Lei Orçamentária Anual": {
+    "chunk_ids": [
+      "chunk-68b29568543512fd2fc8ae0cbd127253"
+    ],
+    "count": 1,
+    "create_time": 1779674845,
+    "update_time": 1779674845,
+    "_id": "Lei Orçamentária Anual"
+  },
+  "PSA Mechanism": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674879,
+    "update_time": 1779674879,
+    "_id": "PSA Mechanism"
+  },
+  "3D Printing Community Laboratory": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674880,
+    "update_time": 1779674880,
+    "_id": "3D Printing Community Laboratory"
+  },
+  "Local Residents and Fishermen": {
+    "chunk_ids": [
+      "chunk-daf3f3a511399d27baaafacc8a1db9af"
+    ],
+    "count": 1,
+    "create_time": 1779674880,
+    "update_time": 1779674880,
+    "_id": "Local Residents and Fishermen"
+  },
+  "Communities of Fishermen": {
+    "chunk_ids": [
+      "chunk-026564c0148b51f6e4d359aee4d3338c"
+    ],
+    "count": 1,
+    "create_time": 1779674890,
+    "update_time": 1779674890,
+    "_id": "Communities of Fishermen"
+  },
+  "Partnerships": {
+    "chunk_ids": [
+      "chunk-026564c0148b51f6e4d359aee4d3338c"
+    ],
+    "count": 1,
+    "create_time": 1779674890,
+    "update_time": 1779674890,
+    "_id": "Partnerships"
+  },
+  "Credits de Carbono": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674915,
+    "update_time": 1779674915,
+    "_id": "Credits de Carbono"
+  },
+  "Equipe Técnica": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674915,
+    "update_time": 1779674915,
+    "_id": "Equipe Técnica"
+  },
+  "Monitoramento Contínuo": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674915,
+    "update_time": 1779674915,
+    "_id": "Monitoramento Contínuo"
+  },
+  "Restauracão": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674915,
+    "update_time": 1779674915,
+    "_id": "Restauracão"
+  },
+  "Participação Comunitária": {
+    "chunk_ids": [
+      "chunk-89141165cd3f083fc23989c3f15765c4"
+    ],
+    "count": 1,
+    "create_time": 1779674915,
+    "update_time": 1779674915,
+    "_id": "Participação Comunitária"
+  },
+  "Fase 1 - Piloto em Balneário Barra do Sul": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "Fase 1 - Piloto em Balneário Barra do Sul"
+  },
+  "Fase 2 - Restauração ativa": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "Fase 2 - Restauração ativa"
+  },
+  "Fase 3 - Escala para a Baía da Babitonga": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "Fase 3 - Escala para a Baía da Babitonga"
+  },
+  "Fase 4 - Plataforma digital pública": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "Fase 4 - Plataforma digital pública"
+  },
+  "R$ 1,2 milhão por ano em créditos de carbono": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "R$ 1,2 milhão por ano em créditos de carbono"
+  },
+  "R$ 1,2 milhão": {
+    "chunk_ids": [
+      "chunk-aabdb3200838b9e69e29cf6cafc7b6da"
+    ],
+    "count": 1,
+    "create_time": 1779674942,
+    "update_time": 1779674942,
+    "_id": "R$ 1,2 milhão"
+  },
+  "Babitonga": {
+    "chunk_ids": [
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 1,
+    "create_time": 1779674963,
+    "update_time": 1779674963,
+    "_id": "Babitonga"
+  },
+  "Crédito de Carbono": {
+    "chunk_ids": [
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 1,
+    "create_time": 1779674963,
+    "update_time": 1779674963,
+    "_id": "Crédito de Carbono"
+  },
+  "Impacto Socioambiental": {
+    "chunk_ids": [
+      "chunk-10f1847a2487ac7c876527fa73acc8f6"
+    ],
+    "count": 1,
+    "create_time": 1779674963,
+    "update_time": 1779674963,
+    "_id": "Impacto Socioambiental"
+  },
+  "Blue Carbon": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674994,
+    "update_time": 1779674994,
+    "_id": "Blue Carbon"
+  },
+  "Carbon Credit": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674994,
+    "update_time": 1779674994,
+    "_id": "Carbon Credit"
+  },
+  "Payment for Environmental Services (PSA)": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674994,
+    "update_time": 1779674994,
+    "_id": "Payment for Environmental Services (PSA)"
+  },
+  "ESG Strategies": {
+    "chunk_ids": [
+      "chunk-b5cf377716ee26ede13962ee6334fc04"
+    ],
+    "count": 1,
+    "create_time": 1779674994,
+    "update_time": 1779674994,
+    "_id": "ESG Strategies"
+  },
+  "Bolsistas Mensais": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Bolsistas Mensais"
+  },
+  "Oficineiros": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Oficineiros"
+  },
+  "Udesc": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 3,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Udesc"
+  },
+  "Laboratório": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Laboratório"
+  },
+  "Protótipo de Ecobarreira": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Protótipo de Ecobarreira"
+  },
+  "Documentário Cultural": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 3,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Documentário Cultural"
+  },
+  "Câmera Mirrorless": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Câmera Mirrorless"
+  },
+  "Microfones": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Microfones"
+  },
+  "Iluminação LED Portátil": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Iluminação LED Portátil"
+  },
+  "Tripé e Estabilizador": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Tripé e Estabilizador"
+  },
+  "Cartões SD e SSD Externo": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Cartões SD e SSD Externo"
+  },
+  "Formação Cultural e Oficinas": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 2,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Formação Cultural e Oficinas"
+  },
+  "Custos Administrativos e Contábeis": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda"
+    ],
+    "count": 1,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Custos Administrativos e Contábeis"
+  },
+  "Captação de Recursos": {
+    "chunk_ids": [
+      "chunk-4867a39f622d137bed16a6293ccd8fda",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 2,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Captação de Recursos"
+  },
+  "Laboratório Karaguá Vivo": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-de97259662535ffc45aa87131b91edcc",
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-2b1e215cb25487527b01e8441005cff0",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 5,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Laboratório Karaguá Vivo"
+  },
+  "Tinkercad": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-fed9bcf559b12248b1273da40f56068e",
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 3,
+    "create_time": 1786227133,
+    "update_time": 1786227133,
+    "_id": "Tinkercad"
+  },
+  "Ecobarreira": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 3,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Ecobarreira"
+  },
+  "João MEI": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "João MEI"
+  },
+  "Impressão 3D": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Impressão 3D"
+  },
+  "Oficinas de Impressão 3D": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Oficinas de Impressão 3D"
+  },
+  "Cultura de Preservação": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Cultura de Preservação"
+  },
+  "Lei nº 8.313/1991": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Lei nº 8.313/1991"
+  },
+  "Cultura Digital": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Cultura Digital"
+  },
+  "Sustentabilidade": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Sustentabilidade"
+  },
+  "Ensino Inclusivo": {
+    "chunk_ids": [
+      "chunk-de97259662535ffc45aa87131b91edcc"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Ensino Inclusivo"
+  },
+  "SALIC": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "SALIC"
+  },
+  "Lucas": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e",
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 2,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Lucas"
+  },
+  "Oficinas de Modelagem": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "Oficinas de Modelagem"
+  },
+  "PETG": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 2,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "PETG"
+  },
+  "PLA": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 2,
+    "create_time": 1786227134,
+    "update_time": 1786227134,
+    "_id": "PLA"
+  },
+  "Kanaguá Ecotech": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Kanaguá Ecotech"
+  },
+  "Ecobarrier": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Ecobarrier"
+  },
+  "Workshop 3": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Workshop 3"
+  },
+  "Workshop 4": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Workshop 4"
+  },
+  "Ecobarrier Design Brief": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Ecobarrier Design Brief"
+  },
+  "Workshop 5": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Workshop 5"
+  },
+  "Workshop 6": {
+    "chunk_ids": [
+      "chunk-47f28922da8d397aaccd4d34f84e64f8"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Workshop 6"
+  },
+  "Lucas Melo": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Lucas Melo"
+  },
+  "João Pedro": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "João Pedro"
+  },
+  "Ecobarreira Prototype": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Ecobarreira Prototype"
+  },
+  "Bolsas de Pesquisa": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Bolsas de Pesquisa"
+  },
+  "Documentário Cultural (contrapartida)": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Documentário Cultural (contrapartida)"
+  },
+  "Infraestrutura do Laboratório": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Infraestrutura do Laboratório"
+  },
+  "Desenvolvimento de Protótipo de Ecobarreira": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Desenvolvimento de Protótipo de Ecobarreira"
+  },
+  "Administração e Contabilidade": {
+    "chunk_ids": [
+      "chunk-366c5f4f409b5d9134f24b7a85c0b74e"
+    ],
+    "count": 1,
+    "create_time": 1786227135,
+    "update_time": 1786227135,
+    "_id": "Administração e Contabilidade"
+  },
+  "João": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "João"
+  },
+  "5 Objectives": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "5 Objectives"
+  },
+  "Curso/Oficina/Capacitação": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Curso/Oficina/Capacitação"
+  },
+  "Oficina de Cultura Digital e Impressão 3D": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Oficina de Cultura Digital e Impressão 3D"
+  },
+  "Ecobarreiras": {
+    "chunk_ids": [
+      "chunk-2b1e215cb25487527b01e8441005cff0",
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 2,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Ecobarreiras"
+  },
+  "Espaço Físico": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Espaço Físico"
+  },
+  "Materiais Didáticos": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Materiais Didáticos"
+  },
+  "Monitoria Especializada": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Monitoria Especializada"
+  },
+  "Documentário": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a",
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 2,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Documentário"
+  },
+  "Materiais de Divulgação Digital": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Materiais de Divulgação Digital"
+  },
+  "Registros Audiovisuais": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Registros Audiovisuais"
+  },
+  "Ação Cultural": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Ação Cultural"
+  },
+  "Projeto Normal": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Projeto Normal"
+  },
+  "Impressoras 3D": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Impressoras 3D"
+  },
+  "Filamento PETG e PLA": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Filamento PETG e PLA"
+  },
+  "Computadores": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Computadores"
+  },
+  "Insumos": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227136,
+    "update_time": 1786227136,
+    "_id": "Insumos"
+  },
+  "Ação 1 - Mostra Cultural de Resultados": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Ação 1 - Mostra Cultural de Resultados"
+  },
+  "Ação 2 - Documentário Cultural": {
+    "chunk_ids": [
+      "chunk-a4dc182d05fe8a824f6001879e64f17a"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Ação 2 - Documentário Cultural"
+  },
+  "Projeto": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Projeto"
+  },
+  "Impressora": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Impressora"
+  },
+  "Bolsistas": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585",
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 2,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Bolsistas"
+  },
+  "ProtoTipo": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "ProtoTipo"
+  },
+  "Oficina 6": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Oficina 6"
+  },
+  "Mostra Cultural": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Mostra Cultural"
+  },
+  "Círculo de Reflexão": {
+    "chunk_ids": [
+      "chunk-93daf61580b578c58a15dff9e12f4585"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Círculo de Reflexão"
+  },
+  "3D Printing Laboratory": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "3D Printing Laboratory"
+  },
+  "Oficina 1": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Oficina 1"
+  },
+  "Oficina 2": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Oficina 2"
+  },
+  "Camiseta Karaguá": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Camiseta Karaguá"
+  },
+  "Mês 2 do Projeto": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Mês 2 do Projeto"
+  },
+  "Mês 4 do Projeto": {
+    "chunk_ids": [
+      "chunk-57e814d734f12e6e0e03507f0db90b8b"
+    ],
+    "count": 1,
+    "create_time": 1786227137,
+    "update_time": 1786227137,
+    "_id": "Mês 4 do Projeto"
+  },
+  "CNAE Cultural": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "CNAE Cultural"
+  },
+  "engineering team": {
+    "chunk_ids": [
+      "chunk-56fa52e6f66e339f041d2b2bcfa35c9f"
+    ],
+    "count": 1,
+    "create_time": 1786227190,
+    "update_time": 1786227190,
+    "_id": "engineering team"
+  },
+  "workshops": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "workshops"
+  },
+  "methodology": {
+    "chunk_ids": [
+      "chunk-fed9bcf559b12248b1273da40f56068e"
+    ],
+    "count": 1,
+    "create_time": 1786227193,
+    "update_time": 1786227193,
+    "_id": "methodology"
+  }
+}

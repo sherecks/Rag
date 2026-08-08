@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.env
+
+frontend/node_modules/
+frontend/dist/
+
+pdfs/
+context/
+lib/
+grafo_karagua.html
+visualizar_grafo.py
+1_indexar.py
+2_consultar.py

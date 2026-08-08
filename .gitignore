@@ -8,9 +8,6 @@ __pycache__/
 *.pyo
 .Python
 
-# RAG generated data
-lightrag_pdf_otimizado/
-
 # OS
 .DS_Store
 Thumbs.db
