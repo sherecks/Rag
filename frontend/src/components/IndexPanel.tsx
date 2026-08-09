@@ -1,5 +1,6 @@
 import { useRef, useState } from 'react';
 import { uploadFiles, streamIndexing, type IndexEvent } from '../lib/indexStream';
+import { logout } from '../lib/auth';
 import { useGraphStore } from '../store/useGraphStore';
 
 function describeEvent(ev: IndexEvent): string {
@@ -53,11 +54,21 @@ export function IndexPanel() {
     }
   }
 
+  async function handleLogout() {
+    await logout();
+    window.location.reload();
+  }
+
   return (
     <div className="index-panel">
-      <button className="index-toggle" onClick={() => setOpen((v) => !v)}>
-        {open ? 'Fechar' : '+ Indexar documentos'}
-      </button>
+      <div className="index-panel-row">
+        <button className="logout-link" onClick={handleLogout}>
+          Sair
+        </button>
+        <button className="index-toggle" onClick={() => setOpen((v) => !v)}>
+          {open ? 'Fechar' : '+ Indexar documentos'}
+        </button>
+      </div>
 
       {open && (
         <div className="index-card">

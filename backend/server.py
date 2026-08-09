@@ -10,13 +10,22 @@ Rodar com: venv/Scripts/python.exe -m uvicorn backend.server:app --reload --port
 import json
 import os
 
-from fastapi import FastAPI, File, HTTPException, Query, UploadFile
+from fastapi import Depends, FastAPI, File, HTTPException, Query, Request, Response, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel
 
 from lightrag import QueryParam
 
+from backend.auth import (
+    SESSION_COOKIE_NAME,
+    check_credentials,
+    create_session,
+    destroy_session,
+    is_valid_session,
+    require_auth,
+)
 from backend.graph_export import build_graph_data, GRAPHML_PATH
 from backend.rag_service import get_rag
 from backend.indexing_service import index_files, save_upload
@@ -27,6 +36,7 @@ app = FastAPI(title="Karaguá RAG API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -37,7 +47,39 @@ async def health():
     return {"status": "ok"}
 
 
-@app.get("/api/graph")
+class LoginBody(BaseModel):
+    email: str
+    password: str
+
+
+@app.post("/api/login")
+async def login(body: LoginBody, response: Response):
+    if not check_credentials(body.email, body.password):
+        raise HTTPException(status_code=401, detail="Email ou senha incorretos.")
+    token = create_session()
+    response.set_cookie(
+        SESSION_COOKIE_NAME,
+        token,
+        httponly=True,
+        samesite="lax",
+        max_age=60 * 60 * 24 * 7,
+    )
+    return {"status": "ok"}
+
+
+@app.post("/api/logout")
+async def logout(request: Request, response: Response):
+    destroy_session(request.cookies.get(SESSION_COOKIE_NAME))
+    response.delete_cookie(SESSION_COOKIE_NAME)
+    return {"status": "ok"}
+
+
+@app.get("/api/me")
+async def me(request: Request):
+    return {"authenticated": is_valid_session(request.cookies.get(SESSION_COOKIE_NAME))}
+
+
+@app.get("/api/graph", dependencies=[Depends(require_auth)])
 async def get_graph(limit: int = 300):
     if not os.path.exists(GRAPHML_PATH):
         raise HTTPException(
@@ -51,7 +93,7 @@ def _sse(event: str, data: dict) -> str:
     return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
 
 
-@app.get("/api/query")
+@app.get("/api/query", dependencies=[Depends(require_auth)])
 async def query_stream(q: str, mode: str = "mix"):
     async def gen():
         if not os.path.exists(GRAPHML_PATH):
@@ -96,7 +138,7 @@ async def query_stream(q: str, mode: str = "mix"):
     return StreamingResponse(gen(), media_type="text/event-stream")
 
 
-@app.post("/api/index/upload")
+@app.post("/api/index/upload", dependencies=[Depends(require_auth)])
 async def upload_files(files: list[UploadFile] = File(...)):
     saved = []
     for f in files:
@@ -109,7 +151,7 @@ async def upload_files(files: list[UploadFile] = File(...)):
     return {"paths": saved}
 
 
-@app.get("/api/index/stream")
+@app.get("/api/index/stream", dependencies=[Depends(require_auth)])
 async def index_stream(paths: list[str] = Query(...)):
     async def gen():
         try:

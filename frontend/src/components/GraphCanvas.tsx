@@ -115,7 +115,7 @@ export function GraphCanvas() {
     if (!graph) return;
     graph.refresh();
     if (highlight && highlight.nodeIds.size > 0) {
-      graph.zoomToFit(1000, 90, (n) => highlight.nodeIds.has(n.id));
+      graph.zoomToFit(1000, 30, (n) => highlight.nodeIds.has(n.id));
     }
   }, [highlight]);
 
