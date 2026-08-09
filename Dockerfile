@@ -14,9 +14,11 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY backend/ ./backend/
-COPY lightrag_pdf_otimizado/ ./lightrag_pdf_otimizado/
+COPY lightrag_pdf_otimizado/ ./seed_data/lightrag_pdf_otimizado/
 COPY --from=frontend-build /app/frontend/dist ./frontend/dist
+COPY docker-entrypoint.sh ./
+RUN chmod +x docker-entrypoint.sh && sed -i 's/\r$//' docker-entrypoint.sh
 
 EXPOSE 8001
 
-CMD ["sh", "-c", "uvicorn backend.server:app --host 0.0.0.0 --port ${PORT:-8001}"]
+CMD ["./docker-entrypoint.sh"]
