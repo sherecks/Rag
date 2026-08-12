@@ -8,6 +8,7 @@ Rodar com: venv/Scripts/python.exe -m uvicorn backend.server:app --reload --port
 """
 
 import json
+import logging
 import os
 
 from fastapi import Depends, FastAPI, File, HTTPException, Query, Request, Response, UploadFile
@@ -29,6 +30,8 @@ from backend.auth import (
 from backend.graph_export import build_graph_data, GRAPHML_PATH
 from backend.rag_service import get_rag
 from backend.indexing_service import index_files, save_upload
+
+logger = logging.getLogger("karagua.server")
 
 app = FastAPI(title="Karaguá RAG API")
 
@@ -104,8 +107,9 @@ async def query_stream(q: str, mode: str = "mix"):
             rag = await get_rag()
             param = QueryParam(mode=mode, stream=True)
             result = await rag.aquery_llm(q, param)
-        except Exception as e:
-            yield _sse("failed", {"message": str(e)})
+        except Exception:
+            logger.exception("Falha ao consultar (q=%r, mode=%r)", q, mode)
+            yield _sse("failed", {"message": "Ocorreu um erro ao processar a consulta. Tente novamente."})
             return
 
         if result.get("status") == "failure":
@@ -129,8 +133,9 @@ async def query_stream(q: str, mode: str = "mix"):
                         yield _sse("delta", {"text": chunk})
             else:
                 yield _sse("delta", {"text": llm.get("content") or ""})
-        except Exception as e:
-            yield _sse("failed", {"message": str(e)})
+        except Exception:
+            logger.exception("Falha ao transmitir resposta (q=%r, mode=%r)", q, mode)
+            yield _sse("failed", {"message": "Ocorreu um erro ao processar a consulta. Tente novamente."})
             return
 
         yield _sse("done", {})
@@ -158,8 +163,9 @@ async def index_stream(paths: list[str] = Query(...)):
             async for event in index_files(paths):
                 stage = event.pop("stage")
                 yield _sse(stage, event)
-        except Exception as e:
-            yield _sse("failed", {"message": str(e)})
+        except Exception:
+            logger.exception("Falha ao indexar documentos: %r", paths)
+            yield _sse("failed", {"message": "Falha ao indexar os documentos. Tente novamente."})
 
     return StreamingResponse(gen(), media_type="text/event-stream")
 

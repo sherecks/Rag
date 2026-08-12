@@ -3,17 +3,44 @@ Indexação de documentos via web, reaproveitando a lógica de extração de
 1_indexar.py, mas expondo progresso incremental para o frontend.
 """
 
+import hashlib
+import json
 import os
 from typing import AsyncIterator
 
 import pdfplumber
 
-from backend.rag_service import get_rag
+from backend.rag_service import get_rag, WORKING_DIR
 from backend.graph_export import invalidate_cache
 
 DOCS_FOLDER = "./pdfs"
 CONTEXT_FOLDER = "./context"
 ALLOWED_EXTENSIONS = {".pdf", ".md"}
+
+# Registro dos arquivos já indexados (hash do conteúdo -> nome do arquivo).
+# Fica dentro do WORKING_DIR do LightRAG por ser o único diretório persistido
+# no Volume do Railway — sobrevive a redeploys/restarts.
+MANIFEST_PATH = os.path.join(WORKING_DIR, "indexed_manifest.json")
+
+
+def _file_hash(path: str) -> str:
+    with open(path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
+
+
+def _load_manifest() -> dict[str, str]:
+    if not os.path.exists(MANIFEST_PATH):
+        return {}
+    try:
+        with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def _save_manifest(manifest: dict[str, str]) -> None:
+    with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
 
 
 def _extrair_texto_pdf(pdf_path: str) -> list[str]:
@@ -62,10 +89,18 @@ def save_upload(filename: str, content: bytes) -> str:
 async def index_files(paths: list[str]) -> AsyncIterator[dict]:
     """Extrai e indexa os arquivos informados, emitindo eventos de progresso."""
     rag = await get_rag()
+    manifest = _load_manifest()
 
     documentos: list[tuple[str, str]] = []
+    new_hashes: dict[str, str] = {}
     for path in paths:
         filename = os.path.basename(path)
+        file_hash = _file_hash(path)
+
+        if file_hash in manifest:
+            yield {"stage": "skipped", "file": filename, "reason": "já indexado anteriormente"}
+            continue
+
         ext = os.path.splitext(filename)[1].lower()
         yield {"stage": "extracting", "file": filename}
 
@@ -78,6 +113,7 @@ async def index_files(paths: list[str]) -> AsyncIterator[dict]:
             continue
 
         documentos.extend((filename, chunk) for chunk in chunks)
+        new_hashes[file_hash] = filename
 
     total = len(documentos)
     yield {"stage": "indexing_start", "total": total}
@@ -85,6 +121,10 @@ async def index_files(paths: list[str]) -> AsyncIterator[dict]:
     for i, (filename, doc) in enumerate(documentos, 1):
         await rag.ainsert(doc)
         yield {"stage": "indexing_progress", "file": filename, "current": i, "total": total}
+
+    if new_hashes:
+        manifest.update(new_hashes)
+        _save_manifest(manifest)
 
     invalidate_cache()
     yield {"stage": "done", "total": total}
